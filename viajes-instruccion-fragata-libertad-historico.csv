@@ -1,0 +1,722 @@
+indice_tiempo_instruccion,fecha_zarpada,pais_zarpada_id,pais_zarpada_nombre,puerto_zarpada_nombre,puerto_zarpada_latitud,puerto_zarpada_longitud,indice_tiempo_arribo,pais_arribo_id,pais_arribo_nombre,puerto_arribo_nombre,puerto_arribo_latitud,puerto_arribo_longitud,dias_navegacion,dias_puerto,millas_nauticas
+1963,1963-06-19,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),1963-07-02,203,Republica Federativa de Brasil,Recife,-08° 02´ 01´´ (S),-034° 52´ 29´´ (W),13,3,2349
+1963,1963-07-05,203,Republica Federativa de Brasil,Recife,-08° 02´ 01´´ (S),-034° 52´ 29´´ (W),1963-07-18,223,Estado Libre Asociado de Puerto Rico,Municipio Autonomo de San Juan,+18° 27´ 27´´ (N),-066° 12´ 32´´ (W),13,4,2253
+1963,1963-07-22,223,Estado Libre Asociado de Puerto Rico,Municipio Autonomo de San Juan,+18° 27´ 27´´ (N),-066° 12´ 32´´ (W),1963-07-30,212,Estados Unidos de America,Boston,+42° 21´ 00´´ (N),-071° 04´ 59´´ (W),8,5,1380
+1963,1963-08-04,212,Estados Unidos de America,Boston,+42° 21´ 00´´ (N),-071° 04´ 59´´ (W),1963-08-08,663,Bermudas,Hamilton,+32° 16´ 59´´ (N),-064° 46´ 00´´ (W),4,7,754
+1963,1963-08-15,663,Bermudas,Hamilton,+32° 16´ 59´´ (N),-064° 46´ 00´´ (W),1963-08-24,425,Republica Portuguesa,Lisboa,+38° 42´ 52´´ (N),-009° 09´ 40´´ (W),9,5,2852
+1963,1963-08-29,425,Republica Portuguesa,Lisboa,+38° 42´ 52´´ (N),-009° 09´ 40´´ (W),1963-09-04,412,Republica Francesa,Le Havre,+49° 29´ 09´´ (N),+000° 06´ 25´´ (E),6,9,940
+1963,1963-09-13,412,Republica Francesa,Le Havre,+49° 29´ 09´´ (N),+000° 06´ 25´´ (E),1963-09-16,438,Republica Federal de Alemania,Hamburgo,+53° 32´ 51´´ (N),+009° 58´ 09´´ (E),3,14,570
+1963,1963-09-30,438,Republica Federal de Alemania,Hamburgo,+53° 32´ 51´´ (N),+009° 58´ 09´´ (E),1963-10-03,426,Reino Unido de Gran Bretania e Irlanda del Norte,Londres,+51° 30´ 27´´ (N),-000° 07´ 20´´ (W),3,6,453
+1963,1963-10-09,426,Reino Unido de Gran Bretania e Irlanda del Norte,Londres,+51° 30´ 27´´ (N),-000° 07´ 20´´ (W),1963-10-16,410,Reino de Espania,Cadiz,+36° 31´ 21´´ (N),-006° 16´ 53´´ (W),7,6,1621
+1963,1963-10-22,410,Reino de Espania,Cadiz,+36° 31´ 21´´ (N),-006° 16´ 53´´ (W),1963-10-30,134,Republica de Senegal,Dakar,+14° 40´ 56´´ (N),-017° 26´ 26´´ (W),8,3,1639
+1963,1963-11-02,134,Republica de Senegal,Dakar,+14° 40´ 56´´ (N),-017° 26´ 26´´ (W),1963-11-16,203,Republica Federativa de Brasil,Rio De Janeiro,-22° 54´ 00´´ (S),-043° 12´ 00´´ (W),14,5,2810
+1963,1963-11-21,203,Republica Federativa de Brasil,Rio De Janeiro,-22° 54´ 00´´ (S),-043° 12´ 00´´ (W),1963-11-28,225,Republica Oriental del Uruguay,Montevideo,-34° 54´ 24´´ (S),-056° 11´ 45´´ (W),7,4,1372
+1963,1963-12-02,225,Republica Oriental del Uruguay,Montevideo,-34° 54´ 24´´ (S),-056° 11´ 45´´ (W),1963-12-06,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),4,,138
+1964,1964-04-01,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),1964-05-20,203,Republica Federativa de Brasil,Santos,-23° 58´ 25´´ (S),-046° 19´ 14´´ (W),19,7,1098
+1964,1964-04-27,203,Republica Federativa de Brasil,Santos,-23° 58´ 25´´ (S),-046° 19´ 14´´ (W),1964-05-18,410,Reino de Espania,Las Palmas de Gran Canaria ,+28° 07´ 43´´ (N),-015° 25´ 49´´ (W),21,4,3785
+1964,1964-05-22,410,Reino de Espania,Las Palmas de Gran Canaria,+28° 07´ 43´´ (N),-015° 25´ 49´´ (W),1964-05-29,425,Republica Portuguesa,Lisboa,+38° 42´ 52´´ (N),-009° 09´ 40´´ (W),7,7,1261
+1964,1964-06-05,425,Republica Portuguesa,Lisboa,+38° 42´ 52´´ (N),-009° 09´ 40´´ (W),1964-07-02,663,Bermudas,Hamilton,+32° 16´ 59´´ (N),-064° 46´ 00´´ (W),27,5,3369
+1964,1964-07-07,663,Bermudas,Hamilton,+32° 16´ 59´´ (N),-064° 46´ 00´´ (W),1964-07-15,212,Estados Unidos de America,New York,+40° 42´ 19´´ (N),-074° 01´ 03´´ (W),8,8,683
+1964,1964-07-23,212,Estados Unidos de America,New York,+40° 42´ 19´´ (N),-074° 01´ 03´´ (W),1964-07-24,212,Estados Unidos de America,New London,+41° 19´ 59´´ (N),-071° 55´ 00´´ (W),1,6,220
+1964,1964-07-30,212,Estados Unidos de America,New London,+41° 19´ 59´´ (N),-071° 55´ 00´´ (W),1964-08-17,410,Reino de Espania,Barcelona,+41 21´ 00´´ (N),+002° 10´ 00´´ (E),18,8,3972
+1964,1964-08-25,410,Reino de Espania,Barcelona,+41° 21´ 00´´ (N),+002° 10´ 00´´ (E),1964-08-26,412,Republica Francesa,Toulouse,+43 36´ 43´´ (N),+001° 24´ 22´´ (E),1,12,381
+1964,1964-09-07,412,Republica Francesa,Toulouse,+43° 36´ 43´´ (N),+001° 24´ 22´´ (E),1964-09-10,417,Republica Italiana,Napoles,+40° 50´ 35´´ (N),+014° 15´ 36´´ (E),3,11,1268
+1964,1964-09-21,417,Republica Italiana,Napoles,+40° 50´ 35´´ (N),+014° 15´ 36´´ (E),1964-09-26,127,Reino de Marruecos,Casablanca,+33° 34´ 42´´ (N),-007° 37´ 28´´ (W),5,4,1597
+1964,1964-09-30,127,Reino de Marruecos,Casablanca,+33° 34´ 42´´ (N),-007° 37´ 28´´ (W),1964-10-15,203,Republica Federativa de Brasil,Salvador Bahia,-12° 58´ 16´´ (S),-038° 30´ 05´´ (W),15,4,3852
+1964,1964-10-19,203,Republica Federativa de Brasil,Salvador de Bahia,-12° 58´ 16´´ (S),-038° 30´ 05´´ (W),1964-10-27,200,Republica Argentina,Rada La Plata,-34° 49´ 59´´ (S),-057° 52´ 59´´ (W),8,4,2386
+1964,1964-10-31,200,Republica Argentina,Rada La Plata,-34° 49´ 59´´ (S),-057° 52´ 59´´ (W),1964-11-03,200,Republica Argentina,Rosario,-32° 57´ 46´´ (S),-060° 37´ 40´´ (W),3,3,190
+1964,1964-11-06,200,Republica Argentina,Rosario,-32° 57´ 46´´ (S),-060° 37´ 40´´ (W),1964-11-07,200,Republica Argentina,Rada La Plata,-34° 49´ 59´´ (S),-057° 52´ 59´´ (W),1,1,190
+1964,1964-11-08,200,Republica Argentina,Rada La Plata,-34° 49´ 59´´ (S),-057° 52´ 59´´ (W),1964-11-08,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),0,,25
+1965,1965-03-26,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),1965-04-09,203,Republica Federativa de Brasil,Recife,-08° 02´ 01´´ (S),-034° 52´ 29´´ (W),14,3,2405
+1965,1965-04-12,203,Republica Federativa de Brasil,Recife,-08° 02´ 01´´ (S),-034° 52´ 29´´ (W),1965-04-26,223,Estado Libre Asociado de Puerto Rico,Municipio Autonomo de San Juan,+18° 27´ 27´´ (N),-066° 12´ 32´´ (W),14,3,2328
+1965,1965-04-29,223,Estado Libre Asociado de Puerto Rico,Municipio Autonomo de San Juan,+18° 27´ 27´´ (N),-066° 12´ 32´´ (W),1965-05-05,220,Republica de Panama,Base Rodman,+08° 56´ 22´´ (N),-079° 33´ 17´´ (W),6,2,1415
+1965,1965-05-07,220,Republica de Panama,Base Naval Rodman,+08° 56´ 22´´ (N),-079° 33´ 17´´ (W),1965-05-13,218,Estados Unidos Mexicanos,Acapulco,+16° 50´ 54´´ (N),-099° 55´ 04´´ (W),6,4,1752
+1965,1965-05-17,218,Estados Unidos Mexicanos,Acapulco,+16° 50´ 54´´ (N),-099° 55´ 04´´ (W),1965-05-24,212,Estados Unidos de America,Long Beach,+33° 44´ 18´´ (N),-118° 11´ 35´´ (W),7,5,1836
+1965,1965-05-29,212,Estados Unidos de America,Long Beach,+33° 44´ 18´´ (N),-118° 11´ 35´´ (W),1965-06-12,212,Estados Unidos de America,Honolulu,+21° 17´ 55´´ (N),-157° 51´ 58´´ (W),14,5,2118
+1965,1965-06-17,212,Estados Unidos de America,Honolulu,+21° 17´ 55´´ (N),-157° 51´ 58´´ (W),1965-07-06,320,Estado de Japon,Tokio,+35° 38´ 56´´ (N),+139° 47´ 29´´ (E),19,7,3658
+1965,1965-07-13,320,Estado de Japon,Tokio,+35° 38´ 56´´ (N),+139° 47´ 29´´ (E),1965-07-19,313,Republica Popular China (Taiwan),Keelung,+25° 08´ 53´´ (N),+121° 44´ 22´´ (E),6,4,1397
+1965,1965-07-23,313,Republica Popular China (Taiwan),Keelung,+25° 08´ 53´´ (N),+121° 44´ 22´´ (E),1965-07-27,312,Republica de Filipinas,Manila,+14° 37´ 52´´ (N),+120° 58´ 19´´ (E),4,4,825
+1965,1965-07-31,312,Republica de Filipinas,Manila,+14° 37´ 52´´ (N),+120° 58´ 19´´ (E),1965-08-06,335,Reino de Tailandia ,Bangkok,+13° 41´ 48´´ (N),+100° 30´ 20´´ (E),6,7,1853
+1965,1965-08-13,335,Reino de Tailandia,Bangkok,+13° 41´ 48´´ (N),+100° 30´ 20´´ (E),1965-08-28,315,Republica de la India,Bombay,+18° 56´ 04´´ (N),+072° 49´ 32´´ (E),15,4,3764
+1965,1965-09-01,315,Republica de la India,Bombay,+18° 56´ 04´´ (N),+072° 49´ 32´´ (E),1965-09-16,113,Republica arabe de Egipto,Alejandria,+31° 11´ 57´´ (N),+029° 53´ 43´´ (E),15,5,3528
+1965,1965-09-21,113,Republica arabe de Egipto,Alejandria,+31° 11´ 57´´ (N),+029° 53´ 43´´ (E),1965-09-27,417,Republica Italiana,Genova ,+44° 24´ 52´´ (N),+008° 54´ 54´´ (E),6,11,1749
+1965,1965-10-08,417,Republica Italiana,Genova ,+44° 24´ 52´´ (N),+008° 54´ 54´´ (E),1965-10-10,412,Republica Francesa,Marsella,+43° 17´ 32´´ (N),+005° 21´ 18´´ (E),2,10,236
+1965,1965-10-20,412,Republica Francesa,Marsella,+43° 17´ 32´´ (N),+005° 21´ 18´´ (E),1965-10-23,410,Reino de Espania,Cadiz,+36° 31´ 21´´ (N),-006° 16´ 53´´ (W),3,7,951
+1965,1965-10-30,410,Reino de Espania,Cadiz,+36° 31´ 21´´ (N),-006° 16´ 53´´ (W),1965-11-07,134,Republica de Senegal,Dakar,+14° 40´ 56´´ (N),-017° 26´ 26´´ (W),8,3,356
+1965,1965-11-10,134,Republica de Senegal,Dakar,+14° 40´ 56´´ (N),-017° 26´ 26´´ (W),1965-12-04,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),24,,3980
+1966,1966-08-05,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),1966-08-15,203,Republica Federativa de Brasil,Salvador Bahia,-12° 58´ 16´´ (S),-038° 30´ 05´´ (W),10,3,2778
+1966,1966-08-18,203,Republica Federativa de Brasil,Salvador Bahia,-12° 58´ 16´´ (S),-038° 30´ 05´´ (W),1966-09-05,217,Jamaica,Kingston,+17° 59´ 23´´ (N),-076° 49´ 25´´ (W),18,3,4025
+1966,1966-09-08,217,Jamaica,Kingston,+17° 59´ 23´´ (N),-076° 49´ 25´´ (W),1966-09-17,212,Estados Unidos de America,New York,+40° 42´ 19´´ (N),-074° 01´ 03´´ (W),9,5,1515
+1966,1966-09-22,212,Estados Unidos de America,New York,+40° 42´ 19´´ (N),-074° 01´ 03´´ (W),1966-09-26,204,Canada,Halifax,+44° 37´ 32´´ (N),-063° 34´ 25´´ (W),4,4,641
+1966,1966-09-30,204,Canada,Halifax,+44° 37´ 32´´ (N),-063° 34´ 25´´ (W),1966-10-15,415,Republica de Irlanda,Dublin,+53° 20´ 36´´ (N),-006° 13´ 35´´ (W),15,4,2632
+1966,1966-10-19,415,Republica de Irlanda,Dublin,+53° 20´ 36´´ (N),-006° 13´ 35´´ (W),1966-10-23,426,Reino Unido de Gran Bretania e Irlanda del Norte,Londres,+51° 30´ 27´´ (N),-000° 07´ 20´´ (W),4,5,801
+1966,1966-10-28,426,Reino Unido de Gran Bretania e Irlanda del Norte,Londres,+51° 30´ 27´´ (N),-000° 07´ 20´´ (W),1966-11-01,438,Republica Federal de Alemania,Hamburgo,+53° 32´ 51´´ (N),+009° 58´ 09´´ (E),4,5,440
+1966,1966-11-06,438,Republica Federal de Alemania,Hamburgo,+53° 32´ 51´´ (N),+009° 58´ 09´´ (E),1966-11-09,412,Republica Francesa,Boulogne Sur Mer,+50° 43´ 48´´ (N),+001° 35´ 37´´ (E),3,2,420
+1966,1966-11-11,412,Republica Francesa,Boulogne Sur Mer,+50° 43´ 48´´ (N),+001° 35´ 37´´ (E),1966-11-15,412,Republica Francesa,Brest,+48° 23´ 12´´ (N),-004° 29´ 26´´ (W),4,7,406
+1966,1966-11-22,412,Republica Francesa,Brest,+48° 23´ 12´´ (N),-004° 29´ 26´´ (W),1966-11-25,410,Reino de Espania,Vigo,+42° 14´ 34´´ (N),-008° 42´ 15´´ (W),3,10,522
+1966,1966-12-05,410,Reino de Espania,Vigo,+42° 14´ 34´´ (N),-008° 42´ 15´´ (W),1966-12-07,425,Republica Portuguesa,Lisboa,+38° 42´ 52´´ (N),-009° 09´ 40´´ (W),2,4,276
+1966,1966-12-11,425,Republica Portuguesa,Lisboa,+38° 42´ 52´´ (N),-009° 09´ 40´´ (W),1966-12-15,410,Reino de Espania,Las Palmas de Gran Canaria ,+28° 07´ 43´´ (N),-015° 25´ 49´´ (W),4,3,660
+1966,1966-12-18,410,Reino de Espania,Las Palmas de Gran Canaria,+28° 07´ 43´´ (N),-015° 25´ 49´´ (W),1967-01-04,203,Republica Federativa de Brasil,Rio de Janeiro,-22° 54´ 00´´ (S),-043° 12´ 00´´ (W),17,5,3168
+1966,1967-01-09,203,Republica Federativa de Brasil,Rio de Janeiro,-22° 54´ 00´´ (S),-043° 12´ 00´´ (W),1967-01-16,200,Republica Argentina,Rio Santiago,-34° 49´ 59´´ (S),-057° 52´ 59´´ (W),7,4,1165
+1966,1967-01-20,200,Republica Argentina,Rio Santiago,-34° 49´ 59´´ (S),-057° 52´ 59´´ (W),1967-01-21,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),1,,25
+1967,1967-07-20,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),1967-08-03,203,Republica Federativa de Brasil,Recife,-08° 02´ 01´´ (S),-034° 52´ 29´´ (W),14,3,2238
+1967,1967-08-06,203,Republica Federativa de Brasil,Recife,-08° 02´ 01´´ (S),-034° 52´ 29´´ (W),1967-08-21,425,Republica Portuguesa,Funchal ,+32° 38´ 52´´ (N),-016° 54´ 38´´ (W),15,4,2723
+1967,1967-08-25,425,Republica Portuguesa,Funchal ,+32° 38´ 52´´ (N),-016° 54´ 38´´ (W),1967-09-04,426,Reino Unido de Gran Bretania e Irlanda del Norte,Portsmouth,+50° 53´ 38´´ (N),-001° 22´ 31´´ (W),10,4,1385
+1967,1967-09-08,426,Reino Unido de Gran Bretania e Irlanda del Norte,Portsmouth,+50° 53´ 38´´ (N),-001° 22´ 31´´ (W),1967-09-12,438,Republica Federal de Alemania,Bremen,+53° 04´ 31´´ (N),+008° 47´ 43´´ (E),4,6,530
+1967,1967-09-18,438,Republica Federal de Alemania,Bremen,+53° 04´ 31´´ (N),+008° 47´ 43´´ (E),1967-09-21,422,Reino de Noruega,Oslo,+59° 54´ 16´´ (N),+010° 44´ 20´´ (E),3,4,515
+1967,1967-09-25,422,Reino de Noruega,Oslo,+59° 54´ 16´´ (N),+010° 44´ 20´´ (E),1967-09-30,429,Reino de Suecia,Estocolmo,+59° 19´ 44´´ (N),+018° 04´ 32´´ (E),5,6,705
+1967,1967-10-06,429,Reino de Suecia,Estocolmo,+59° 19´ 44´´ (N),+018° 04´ 32´´ (E),1967-10-09,409,Reino de Dinamarca,Copenhague,+55° 40´ 17´´ (N),+012° 34´ 43´´ (E),3,7,498
+1967,1967-10-16,409,Reino de Dinamarca,Copenhague,+55° 40´ 17´´ (N),+012° 34´ 43´´ (E),1967-10-20,423,Paises Bajos,Amsterdam,+52° 22´ 31´´ (N),+004° 54´ 14´´ (E),4,6,758
+1967,1967-10-26,423,Paises Bajos,Amsterdam,+52° 22´ 31´´ (N),+004° 54´ 14´´ (E),1967-10-31,412,Republica Francesa,Brest,+48° 23´ 12´´ (N),-004° 29´ 26´´ (W),5,9,759
+1967,1967-11-09,412,Republica Francesa,Brest,+48° 23´ 12´´ (N),-004° 29´ 26´´ (W),1967-11-14,410,Reino de Espania,Cadiz,+36° 31´ 21´´ (N),-006° 16´ 53´´ (W),5,9,923
+1967,1967-11-23,410,Reino de Espania,Cadiz,+36° 31´ 21´´ (N),-006° 16´ 53´´ (W),1967-11-30,417,Republica Italiana,Genova,+44° 24´ 52´´ (N),+008° 54´ 54´´ (E),7,7,984
+1967,1967-12-07,417,Republica Italiana,Genova,+44° 24´ 52´´ (N),+008° 54´ 54´´ (E),1967-12-14,127,Reino de Marruecos,Casablanca,+33° 34´ 42´´ (N),-007° 37´ 28´´ (W),7,4,1088
+1967,1967-12-18,127,Reino de Marruecos,Casablanca,+33° 34´ 42´´ (N),-007° 37´ 28´´ (W),1967-12-27,134,Republica de Senegal,Dakar,+14° 40´ 56´´ (N),-017° 26´ 26´´ (W),9,4,1366
+1967,1967-12-31,134,Republica de Senegal,Dakar,+14° 40´ 56´´ (N),-017° 26´ 26´´ (W),1968-01-23,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),23,,4000
+1968,1968-07-27,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),1968-08-08,203,Republica Federativa de Brasil,Salvador Bahia,-12° 58´ 16´´ (S),-038° 30´ 05´´ (W),12,3,2778
+1968,1968-08-11,203,Republica Federativa de Brasil,Salvador de Bahia,-12° 58´ 16´´ (S),-038° 30´ 05´´ (W),1968-08-27,410,Reino de Espania,Santa Cruz de Tenerife,+28° 29´ 02´´ (N),-016° 14´ 55´´ (W),16,3,2872
+1968,1968-08-30,410,Reino de Espania,Santa Cruz de Tenerife,+28° 29´ 02´´ (N),-016° 14´ 55´´ (W),1968-09-08,415,Republica de Irlanda,Dublin,+53° 20´ 36´´ (N),-006° 13´ 35´´ (W),9,5,1610
+1968,1968-09-13,415,Republica de Irlanda,Dublin,+53° 20´ 36´´ (N),-006° 13´ 35´´ (W),1968-09-16,426,Reino Unido de Gran Bretania e Irlanda del Norte,Portsmouth,+50° 53´ 38´´ (N),-001° 22´ 31´´ (W),3,4,461
+1968,1968-09-20,426,Reino Unido de Gran Bretania e Irlanda del Norte,Portsmouth,+50° 53´ 38´´ (N),-001° 22´ 31´´ (W),1968-09-23,438,Republica Federal de Alemania,Hamburgo,+53° 32´ 51´´ (N),+009° 58´ 09´´ (E),3,6,548
+1968,1968-09-29,438,Republica Federal de Alemania,Hamburgo,+53° 32´ 51´´ (N),+009° 58´ 09´´ (E),1968-10-09,410,Reino de Espania,Malaga,+36° 42´ 38´´ (N),-004° 25´ 29´´ (W),10,7,1696
+1968,1968-10-16,410,Reino de Espania,Malaga,+36° 42´ 38´´ (N),-004° 25´ 29´´ (W),1968-10-19,410,Reino de Espania,Palma de Mallorca,+33° 33´ 02´´ (N),+002° 37´ 29´´ (E),3,4,412
+1968,1968-10-23,410,Reino de Espania,Palma de Mallorca,+33° 33´ 02´´ (N),+002° 37´ 29´´ (E),1968-10-25,412,Republica Francesa,Marsella,+43° 17´ 32´´ (N),+005° 21´ 18´´ (E),2,8,290
+1968,1968-11-02,412,Republica Francesa,Marsella,+43° 17´ 32´´ (N),+005° 21´ 18´´ (E),1968-11-09,417,Republica Italiana,Venecia,+45° 26´ 08´´ (N),+012° 18´ 27´´ (E),7,9,1197
+1968,1968-11-18,417,Republica Italiana,Venecia,+45° 26´ 08´´ (N),+012° 18´ 27´´ (E),1968-11-23,413,Republica Helenica,El Pireo,+37° 57´ 00´´ (N),+011° 47´ 14´´ (E),5,5,841
+1968,1968-11-28,413,Republica Helenica,El Pireo,+37° 57´ 00´´ (N),+011° 47´ 14´´ (E),1968-11-30,436,Republica de Turquia,Estambul,+41° 00´ 24´´ (N),+028° 58´ 23´´ (E),2,5,382
+1968,1968-12-05,436,Republica de Turquia,Estambul,+41° 00´ 24´´ (N),+028° 58´ 23´´ (E),1968-12-07,436,Republica de Turquia,Esmirna,+38° 22´ 25´´ (N),+027° 03´ 03´´ (E),2,5,284
+1968,1968-12-12,436,Republica de Turquia,Esmirna,+38° 22´ 25´´ (N),+027° 03´ 03´´ (E),1968-12-21,127,Reino de Marruecos,Tanger,+35° 45´ 50´´ (N),-005° 47´ 52´´ (W),9,4,1638
+1968,1968-12-25,127,Reino de Marruecos,Tanger,+35° 45´ 50´´ (N),-005° 47´ 52´´ (W),1969-01-02,134,Republica de Senegal,Dakar,+14° 40´ 56´´ (N),-017° 26´ 26´´ (W),8,4,1488
+1968,1969-01-06,134,Republica de Senegal,Dakar,+14° 40´ 56´´ (N),-017° 26´ 26´´ (W),1969-01-31,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),25,,3718
+1969,1969-05-09,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),1969-05-16,203,Republica Federativa de Brasil,Rio de Janeiro,-22° 54´ 00´´ (S),-043° 12´ 00´´ (W),7,6,1164
+1969,1969-05-22,203,Republica Federativa de Brasil,Rio de Janeiro,-22° 54´ 00´´ (S),-043° 12´ 00´´ (W),1969-06-09,474,Martinica,Fort de France,+14° 36´ 00´´ (N),-061° 06´ 00´´ (W),18,4,3300
+1969,1969-06-13,474,Martinica,Fort de France,+14° 36´ 00´´ (N),-061° 06´ 00´´ (W),1969-06-15,223,Estado Libre Asociado de Puerto Rico,Municipio Autonomo de San Juan ,+18° 27´ 27´´ (N),-066° 12´ 32´´ (W),2,5,417
+1969,1969-06-20,223,Estado Libre Asociado de Puerto Rico,Municipio Autonomo de San Juan ,+18° 27´ 27´´ (N),-066° 12´ 32´´ (W),1969-06-26,205,Republica de Colombia,Cartagena de Indias,+10° 24´ 09´´ (N),-075° 31´ 12´´ (W),6,2,795
+1969,1969-06-28,205,Republica de Colombia,Cartagena de Indias,+10° 24´ 09´´ (N),-075° 31´ 12´´ (W),1969-07-07,218,Estados Unidos Mexicanos,Veracruz,+19° 12´ 00´´ (N),-096° 07´ 59´´ (W),9,6,1504
+1969,1969-07-13,218,Estados Unidos Mexicanos,Veracruz,+19° 12´ 00´´ (N),-096° 07´ 59´´ (W),1969-07-25,212,Estados Unidos de America,New York,+40° 42´ 19´´ (N),-074° 01´ 03´´ (W),12,10,2040
+1969,1969-08-04,212,Estados Unidos de America,New York,+40° 42´ 19´´ (N),-074° 01´ 03´´ (W),1969-08-08,204,Canada,Halifax,+44° 37´ 32´´ (N),-063° 34´ 25´´ (W),4,4,630
+1969,1969-08-12,204,Canada,Halifax,+44° 37´ 32´´ (N),-063° 34´ 25´´ (W),1969-08-21,425,Republica Portuguesa,Punta Delgada,+32° 38´ 52´´ (N),-016° 54´ 38´´ (W),9,3,1805
+1969,1969-08-24,425,Republica Portuguesa,Punta Delgada,+32° 38´ 52´´ (N),-016° 54´ 38´´ (W),1969-08-31,410,Reino de Espania,La Corunia,+43° 28´ 08´´ (N),-008° 16´ 00´´ (W),7,9,962
+1969,1969-09-09,410,Reino de Espania,La Corunia,+43° 28´ 08´´ (N),-008° 16´ 00´´ (W),1969-09-11,425,Republica Portuguesa,Lisboa,+38° 42´ 52´´ (N),-009° 09´ 40´´ (W),2,5,364
+1969,1969-09-16,425,Republica Portuguesa,Lisboa,+38° 42´ 52´´ (N),-009° 09´ 40´´ (W),1969-09-18,127,Reino de Marruecos,Casablanca,+33° 34´ 42´´ (N),-007° 37´ 28´´ (W),2,4,321
+1969,1969-09-22,127,Reino de Marruecos,Casablanca,+33° 34´ 42´´ (N),-007° 37´ 28´´ (W),1969-09-25,410,Reino de Espania,Las Palmas de Gran Canaria,+28° 07´ 43´´ (N),-015° 25´ 49´´ (W),3,4,497
+1969,1969-09-29,410,Reino de Espania,Las Palmas de Gran Canaria,+28° 07´ 43´´ (N),-015° 25´ 49´´ (W),1969-10-06,135,Sierra Leona,Freetown,+08° 29´ 20´´ (N),-013° 12´ 17´´ (W),7,3,1321
+1969,1969-10-09,135,Sierra Leona,Freetown,+08° 29´ 20´´ (N),-013° 12´ 17´´ (W),1969-10-31,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),22,,3812
+1970,1970-02-04,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),1970-02-24,159,Republica de Sudafrica,Cape Town,-33° 56´ 44´´ (S),+18° 25´ 51´´ (E),20,5,3931
+1970,1970-03-01,159,Republica de Sudafrica,Cape Town,-33° 56´ 44´´ (S),+18° 25´ 51´´ (E),1970-03-13,120,Republica de Kenya,Mombasa,-04° 04´ 04´´ (S),+39° 39´ 59´´ (E),12,4,2777
+1970,1970-03-17,120,Republica de Kenya,Mombasa,-04° 04´ 04´´ (S),+39° 39´ 59´´ (E),1970-03-22,128,Republica de  Mauricio,Port Louis,-20° 08´ 37´´ (S),+57° 30´ 58´´ (E),5,4,1475
+1970,1970-03-26,128,Republica de  Mauricio,Port Louis,-20° 08´ 37´´ (S),+57° 30´ 58´´ (E),1970-04-11,501,Mancomunidad de Australia,Freemantle,-32° 02´ 14´´ (S),+115° 45´ 07´´ (E),16,4,3579
+1970,1970-04-15,501,Mancomunidad de Australia,Freemantle,-32° 02´ 14´´ (S),+115° 45´ 07´´ (E),1970-04-26,501,Mancomunidad de Australia,Sydney,-33° 52´ 10´´ (S),+151° 10´ 58´´ (E),11,8,2322
+1970,1970-05-04,501,Mancomunidad de Australia,Sydney,-33° 52´ 10´´ (S),+151° 10´ 58´´ (E),1970-05-09,540,Republica de Francia - Nueva Caledonia,Noumea,-22° 18´ 16´´ (S),+166° 25´ 54´´ (E),5,4,1117
+1970,1970-05-13,540,Republica de Francia - Nueva Caledonia,Numea,-22° 18´ 16´´ (S),+166° 25´ 54´´ (E),1970-05-19,513,Nueva Guinea,Port Moresby,-09° 26´ 06´´ (S),+147° 08´ 43´´ (E),6,0,1396
+1970,1970-05-19,513,Nueva Guinea,Port Moresby,-09° 26´ 06´´ (S),+147° 08´ 43´´ (E),1970-06-01,312,Republica de Filipinas,Manila,+14° 37´ 52´´ (N),+120° 58´ 19´´ (E),13,6,2591
+1970,1970-06-07,312,Republica de Filipinas,Manila,+14° 37´ 52´´ (N),+120° 58´ 19´´ (E),1970-06-11,313,Republica Popular de China (Taiwan),Keelung,+25° 08´ 53´´ (N),+121° 44´ 22´´ (E),4,5,786
+1970,1970-06-16,313,Estado Democratico de Taiwan,Keelung,+25° 08´ 53´´ (N),+121° 44´ 22´´ (E),1970-06-21,320,Estado de Japon,Osaka,+34° 39´ 00´´ (N),+135° 26´ 59´´ (E),5,6,951
+1970,1970-06-27,320,Estado de Japon,Osaka,+34° 39´ 00´´ (N),+135° 26´ 59´´ (E),1970-06-29,320,Estado de Japon,Tokio,+35° 38´ 56´´ (N),+139° 47´ 29´´ (E),2,8,353
+1970,1970-07-07,320,Estado de Japon,Tokio,+35° 38´ 56´´ (N),+139° 47´ 29´´ (E),1970-07-18,212,Estados Unidos de America,Midway,+28° 12´ 43´´ (N),-177° 22´ 03´´ (W),11,4,2281
+1970,1970-07-22,212,Estados Unidos de America,Midway,+28° 12´ 43´´ (N),-177° 22´ 03´´ (W),1970-07-28,212,Estados Unidos de America,Honolulu,+21° 17´ 55´´ (N),-157° 51´ 58´´ (W),6,11,1996
+1970,1970-08-08,212,Estados Unidos de America,Honolulu,+21° 17´ 55´´ (N),-157° 51´ 58´´ (W),1970-08-20,212,Estados Unidos de America,San Francisco,+37° 48´ 29´´ (N),-122° 24´ 36´´ (W),12,11,2170
+1970,1970-08-31,212,Estados Unidos de America,San Francisco,+37° 48´ 29´´ (N),-122° 24´ 36´´ (W),1970-09-06,218,Estados Unidos Mexicanos,Acapulco,+16° 50´ 54´´ (N),-099° 55´ 04´´ (W),6,11,1845
+1970,1970-09-17,218,Estados Unidos Mexicanos,Acapulco,+16° 50´ 54´´ (N),-099° 55´ 04´´ (W),1970-09-25,210,Republica de Ecuador,Guayaquil,-02° 14´ 25´´ (S),-079° 52´ 53´´ (W),8,4,1780
+1970,1970-09-29,210,Republica de Ecuador,Guayaquil,-02° 14´ 25´´ (S),-079° 52´ 53´´ (W),1970-10-02,222,Republica de Peru,El Callao,-12° 03´ 13´´ (S),-077° 07´ 16´´ (W),3,7,700
+1970,1970-10-09,222,Republica de Peru,El Callao,-12° 03´ 13´´ (S),-077° 07´ 16´´ (W),1970-10-16,208,Republica de Chile,Valparaiso,-33° 03´ 01´´ (S),-071° 38´ 20´´ (W),7,5,1307
+1970,1970-10-21,208,Republica de Chile,Valparaiso,-33° 03´ 01´´ (S),-071° 38´ 20´´ (W),1970-10-28,208,Republica de Chile,Punta Arenas,-53° 06´ 06´´ (S),-070° 56´ 28´´ (W),7,2,1536
+1970,1970-10-30,208,Republica de Chile,Punta Arenas,-53° 06´ 06´´ (S),-070° 56´ 28´´ (W),1970-11-07,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),8,,1532
+1973,1973-07-24,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),1973-08-17,226,Republica Bolivariana de Venezuela,La Guaira,+10° 36´ 00´´ (N),-066° 55´ 59´´ (W),24,5,4870
+1973,1973-08-22,226,Republica Bolivariana de Venezuela,La Guaira,+10° 36´ 00´´ (N),-066° 55´ 59´´ (W),1973-08-25,217,Jamaica,Kingston,+17° 59´ 23´´ (N),-076° 49´ 25´´ (W),3,4,732
+1973,1973-08-29,217,Jamaica,Kingston,+17° 59´ 23´´ (N),-076° 49´ 25´´ (W),1973-09-02,207,Republica de Cuba,La Habana,+23° 08´ 14´´ (N),-082° 23´ 48´´ (W),5,3,834
+1973,1973-09-05,207,Republica de Cuba,La Habana,+23° 08´ 14´´ (N),-082° 23´ 48´´ (W),1973-09-11,212,Estados Unidos de America,New York,+40° 42´ 19´´ (N),-074° 01´ 03´´ (W),6,6,1342
+1973,1973-09-17,212,Estados Unidos de America,New York,+40° 42´ 19´´ (N),-074° 01´ 03´´ (W),1973-09-21,204,Canada,Halifax,+44° 37´ 32´´ (N),-063° 34´ 25´´ (W),5,4,674
+1973,1973-09-25,204,Canada,Halifax,+44° 37´ 32´´ (N),-063° 34´ 25´´ (W),1973-10-10,426,Reino Unido de Gran Bretania e Irlanda del Norte,Londres,+51° 30´ 27´´ (N),-000° 07´ 20´´ (W),15,6,2913
+1973,1973-10-16,426,Reino Unido de Gran Bretania e Irlanda del Norte,Londres,+51° 30´ 27´´ (N),-000° 07´ 20´´ (W),1973-10-19,438,Republica Federal de Alemania,Hamburgo,+53° 32´ 51´´ (N),+009° 58´ 09´´ (E),3,5,451
+1973,1973-10-24,438,Republica Federal de Alemania,Hamburgo,+53° 32´ 51´´ (N),+009° 58´ 09´´ (E),1973-11-02,410,Reino de Espania,Malaga,+36° 42´ 38´´ (N),-004° 25´ 29´´ (W),9,8,1723
+1973,1973-11-10,410,Reino de Espania,Malaga,+36° 42´ 38´´ (N),-004° 25´ 29´´ (W),1973-11-13,412,Republica Francesa,Toulon,+43° 07´ 00´´ (N),+005° 56´ 00´´ (E),3,8,692
+1973,1973-11-21,412,Republica Francesa,Toulon,+43° 07´ 00´´ (N),+005° 56´ 00´´ (E),1973-11-23,417,Republica Italiana,Civitavecchia,+42° 05´ 47´´ (N),+011° 47´ 14´´ (E),2,7,303
+1973,1973-11-30,417,Republica Italiana,Civitavecchia,+42° 05´ 47´´ (N),+011° 47´ 14´´ (E),1973-12-03,410,Reino de Espania,Palma de Mallorca,+33° 33´ 02´´ (N),+002° 37´ 29´´ (E),3,4,469
+1973,1973-12-07,410,Reino de Espania,Palma de Mallorca,+33° 33´ 02´´ (N),+002° 37´ 29´´ (E),1973-12-17,134,Republica de Senegal,Dakar,+14° 40´ 56´´ (N),-017° 26´ 26´´ (W),10,3,2044
+1973,1973-12-20,134,Republica de Senegal,Dakar,+14° 40´ 56´´ (N),-017° 26´ 26´´ (W),1973-12-29,203,Republica Federativa de Brasil,Salvador Bahia,-12° 58´ 16´´ (S),-038° 30´ 05´´ (W),9,6,2101
+1973,1974-01-04,203,Republica Federativa de Brasil,Salvador Bahia,-12° 58´ 16´´ (S),-038° 30´ 05´´ (W),1974-01-14,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),10,,1908
+1974,1974-08-02,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),1974-08-22,201,Barbados,Bridgetown,+13° 04´ 59´´ (N),-059° 36´ 00´´ (W),20,6,4372
+1974,1974-08-28,201,Barbados,Bridgetown,+13° 04´ 59´´ (N),-059° 36´ 00´´ (W),1974-09-05,206,Republica de Costa Rica,Puerto Limon,+09° 59´ 48´´ (N),-083° 02´ 09´´ (W),8,6,1452
+1974,1974-09-11,206,Republica de Costa Rica,Puerto Limon,+09° 59´ 48´´ (N),-083° 02´ 09´´ (W),1974-09-23,212,Estados Unidos de America,Boston,+42° 21´ 00´´ (N),-071° 04´ 59´´ (W),12,7,2456
+1974,1974-09-30,212,Estados Unidos de America,Boston,+42° 21´ 00´´ (N),-071° 04´ 59´´ (W),1974-10-17,426,Reino Unido de Gran Bretania e Irlanda del Norte,Londres,+51° 30´ 27´´ (N),-000° 07´ 20´´ (W),17,7,3190
+1974,1974-10-24,426,Reino Unido de Gran Bretania e Irlanda del Norte,Londres,+51° 30´ 27´´ (N),-000° 07´ 20´´ (W),1974-10-26,423,Paises Bajos,Amsterdam,+52° 22´ 31´´ (N),+004° 54´ 14´´ (E),2,6,254
+1974,1974-11-01,423,Paises Bajos,Amsterdam,+52° 22´ 31´´ (N),+004° 54´ 14´´ (E),1974-11-03,412,Republica Francesa,Le Havre,+49° 29´ 09´´ (N),+000° 06´ 25´´ (E),2,8,293
+1974,1974-11-11,412,Republica Francesa,Le Havre,+49° 29´ 09´´ (N),+000° 06´ 25´´ (E),1974-11-20,410,Reino de Espania,Valencia,+39° 27´ 03´´ (N),-000° 19´ 48´´ (W),9,8,1730
+1974,1974-11-28,410,Reino de Espania,Valencia,+39° 27´ 03´´ (N),-000° 19´ 48´´ (W),1974-12-02,417,Republica Italiana,Napoles,+40° 50´ 35´´ (N),+014° 15´ 36´´ (E),4,8,807
+1974,1974-12-10,417,Republica Italiana,Napoles,+40° 50´ 35´´ (N),+014° 15´ 36´´ (E),1974-12-14,102,Republica Argelina Democratica y Popular,Argel,+36° 47´ 09´´ (N),+003° 03´ 54´´ (E),4,3,574
+1974,1974-12-17,102,Republica Argelina Democratica y Popular,Argel,+36° 47´ 09´´ (N),+003° 03´ 54´´ (E),1974-12-23,410,Reino de Espania,Las Palmas de Gran Canaria ,+28° 07´ 43´´ (N),-015° 25´ 49´´ (W),6,5,1159
+1974,1974-12-28,410,Reino de Espania,Las Palmas de Gran Canaria,+28° 07´ 43´´ (N),-015° 25´ 49´´ (W),1975-01-14,203,Republica Federativa de Brasil,Rio de Janeiro,-22° 54´ 00´´ (S),-043° 12´ 00´´ (W),17,7,3168
+1974,1975-01-21,203,Republica Federativa de Brasil,Rio de Janeiro,-22° 54´ 00´´ (S),-043° 12´ 00´´ (W),1975-01-29,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),8,,1164
+1975,1975-06-25,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),1975-07-07,203,Republica Federativa de Brasil,Salvador Bahia,-12° 58´ 16´´ (S),-038° 30´ 05´´ (W),12,3,2387
+1975,1975-07-10,203,Republica Federativa de Brasil,Salvador Bahia,-12° 58´ 16´´ (S),-038° 30´ 05´´ (W),1975-07-24,226,Republica Bolivariana de Venezuela,La Guaira,+10° 36´ 00´´ (N),-066° 55´ 59´´ (W),14,4,3081
+1975,1975-07-28,226,Republica Bolivariana de Venezuela,La Guaira,+10° 36´ 00´´ (N),-066° 55´ 59´´ (W),1975-07-31,223,Estado Libre Asociado de Puerto Rico, Municipio Autonomo de San Juan,+18° 27´ 27´´ (N),-066° 12´ 32´´ (W),3,4,635
+1975,1975-08-04,223,Estado Libre Asociado de Puerto Rico, Municipio Autonomo de San Juan,+18° 27´ 27´´ (N),-066° 12´ 32´´ (W),1975-08-12,212,Estados Unidos de America,New London,+41° 19´ 59´´ (N),-071° 55´ 00´´ (W),8,6,1555
+1975,1975-08-18,212,Estados Unidos de America,New London,+41° 19´ 59´´ (N),-071° 55´ 00´´ (W),1975-09-03,426,Reino Unido de Gran Bretania e Irlanda del Norte,Portsmouth,+50° 53´ 38´´ (N),-001° 22´ 31´´ (W),16,5,3177
+1975,1975-09-08,426,Reino Unido de Gran Bretania e Irlanda del Norte,Portsmouth,+50° 53´ 38´´ (N),-001° 22´ 31´´ (W),1975-09-11,438,Republica Federal de Alemania,Hamburgo,+53° 32´ 51´´ (N),+009° 58´ 09´´ (E),3,5,532
+1975,1975-09-16,438,Republica Federal de Alemania,Hamburgo,+53° 32´ 51´´ (N),+009° 58´ 09´´ (E),1975-09-19,412,Republica Francesa,Boulogne Sur Mer,+50° 43´ 48´´ (N),+001° 35´ 37´´ (E),3,8,452
+1975,1975-09-27,412,Republica Francesa,Boulogne Sur Mer,+50° 43´ 48´´ (N),+001° 35´ 37´´ (E),1975-10-01,410,Reino de Espania,La Corunia,+43° 28´ 08´´ (N),-008° 16´ 00´´ (W),4,6,669
+1975,1975-10-07,410,Reino de Espania,La Corunia,+43° 28´ 08´´ (N),-008° 16´ 00´´ (W),1975-10-15,412,Republica Francesa,Toulon,+43° 07´ 00´´ (N),+005° 56´ 00´´ (E),8,5,1484
+1975,1975-10-20,412,Republica Francesa,Toulon,+43° 07´ 00´´ (N),+005° 56´ 00´´ (E),1975-10-22,417,Republica Italiana,Civitavecchia,+42° 05´ 47´´ (N),+011° 47´ 14´´ (E),2,6,317
+1975,1975-10-28,417,Republica Italiana,Civitavecchia,+42° 05´ 47´´ (N),+011° 47´ 14´´ (E),1975-10-31,410,Reino de Espania,Palma de Mallorca,+33° 33´ 02´´ (N),+002° 37´ 29´´ (E),3,5,514
+1975,1975-11-05,410,Reino de Espania,Palma de Mallorca,+33° 33´ 02´´ (N),+002° 37´ 29´´ (E),1975-11-12,410,Reino de Espania,Santa Cruz de Tenerife,+28° 29´ 02´´ (N),-016° 14´ 55´´ (W),7,5,1338
+1975,1975-11-17,410,Reino de Espania,Santa Cruz de Tenerife,+28° 29´ 02´´ (N),-016° 14´ 55´´ (W),1975-12-05,203,Republica Federativa de Brasil,Santos,-23° 58´ 25´´ (S),-046° 19´ 14´´ (W),18,5,3852
+1975,1975-12-10,203,Republica Federativa de Brasil,Santos,-23° 58´ 25´´ (S),-046° 19´ 14´´ (W),1975-12-18,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),8,,1020
+1976,1976-05-15,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),1976-05-31,203,Republica Federativa de Brasil,Fortaleza,-03° 43´ 51´´ (S),-038° 36´ 51´´ (W),16,4,2953
+1976,1976-06-04,203,Republica Federativa de Brasil,Fortaleza,-03° 43´ 51´´ (S),-038° 36´ 51´´ (W),1976-06-16,663,Bermuda,Hamilton,+32° 16´ 59´´ (N),-064° 46´ 00´´ (W),12,4,2788
+1976,1976-06-20,663,Bermudas,Hamilton,+32° 16´ 59´´ (N),-064° 46´ 00´´ (W),1976-06-30,212,Estados Unidos de America,Newport,+41° 28´ 55´´ (N),-071° 18´ 52´´ (W),10,1,695
+1976,1976-07-01,212,Estados Unidos de America,Newport,+41° 28´ 55´´ (N),-071° 18´ 52´´ (W),1976-07-04,212,Estados Unidos de America,New York,+40° 42´ 19´´ (N),-074° 01´ 03´´ (W),3,6,211
+1976,1976-07-10,212,Estados Unidos de America,New York,+40° 42´ 19´´ (N),-074° 01´ 03´´ (W),1976-07-29,422,Reino de Noruega,Oslo,+59° 54´ 16´´ (N),+010° 44´ 20´´ (E),19,4,3867
+1976,1976-08-02,422,Reino de Noruega,Oslo,+59° 54´ 16´´ (N),+010° 44´ 20´´ (E),1976-08-04,409,Reino de Dinamarca,Copenhague,+55° 40´ 17´´ (N),+012° 34´ 43´´ (E),2,5,264
+1976,1976-08-09,409,Reino de Dinamarca,Copenhague,+55° 40´ 17´´ (N),+012° 34´ 43´´ (E),1976-08-10,438,Republica Federal de Alemania,Kiel,+54° 19´ 05´´ (N),+010° 08´ 06´´ (E),1,5,180
+1976,1976-08-15,438,Republica Federal de Alemania,Kiel,+54° 19´ 05´´ (N),+010° 08´ 06´´ (E),1976-08-18,423,Paises Bajos,Amsterdam,+52° 22´ 31´´ (N),+004° 54´ 14´´ (E),3,5,743
+1976,1976-08-23,423,Paises Bajos,Amsterdam,+52° 22´ 31´´ (N),+004° 54´ 14´´ (E),1976-08-25,412,Republica Francesa,Le Havre,+49° 29´ 09´´ (N),+000° 06´ 25´´ (E),2,9,262
+1976,1976-09-03,412,Republica Francesa,Le Havre,+49° 29´ 09´´ (N),+000° 06´ 25´´ (E),1976-09-09,410,Reino de Espania,Malaga,+36° 42´ 38´´ (N),-004° 25´ 29´´ (W),6,8,1279
+1976,1976-09-17,410,Reino de Espania,Malaga,+36° 42´ 38´´ (N),-004° 25´ 29´´ (W),1976-09-22,417,Republica Italiana,Napoles,+40° 50´ 35´´ (N),+014° 15´ 36´´ (E),5,8,1018
+1976,1976-09-30,417,Republica Italiana,Napoles,+40° 50´ 35´´ (N),+014° 15´ 36´´ (E),1976-10-04,413,Republica Helenica,El Pireo,+37° 57´ 00´´ (N),+011° 47´ 14´´ (E),4,4,723
+1976,1976-10-08,413,Republica Helenica,El Pireo,+37° 57´ 00´´ (N),+011° 47´ 14´´ (E),1976-10-11,436,Republica de Turaquia,Estambul,+41° 00´ 24´´ (N),+028° 58´ 23´´ (E),3,4,420
+1976,1976-10-15,436,Republica de Turquia,Estambul,+41° 00´ 24´´ (N),+028° 58´ 23´´ (E),1976-10-20,141,Republica Tunecina,Tunez,+36° 49´ 06´´ (N),+010° 12´ 08´´ (E),5,1,1057
+1976,1976-10-21,141,Republica Tunecina,Tunez,+36° 49´ 06´´ (N),+010° 12´ 08´´ (E),1976-10-29,410,Reino de Espania,Santa Cruz de Tenerife,+28° 29´ 02´´ (N),-016° 14´ 55´´ (W),8,4,1568
+1976,1976-11-02,410,Reino de Espania,Santa Cruz de Tenerife,+28° 29´ 02´´ (N),-016° 14´ 55´´ (W),1976-11-12,110,Republica de Costa de Marfil,Abiyan,+05° 15´ 22´´ (N),-003° 58´ 40´´ (W),10,4,2026
+1976,1976-11-16,110,Republica de Costa de Marfil,Abiyan,+05° 15´ 22´´ (N),-003° 58´ 40´´ (W),1976-12-02,203,Republica Federativa de Brasil,Rio de Janeiro,-22° 54´ 00´´ (S),-043° 12´ 00´´ (W),16,4,2793
+1976,1976-12-06,203,Republica Federativa de Brasil,Rio de Janeiro,-22° 54´ 00´´ (S),-043° 12´ 00´´ (W),1976-12-15,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),9,,1240
+1977,1977-06-29,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),1977-07-14,208,Republica de Chile,Valparaiso,-33° 03´ 01´´ (S),-071° 38´ 20´´ (W),15,5,3079
+1977,1977-07-19,208,Republica de Chile,Valparaiso,-33° 03´ 01´´ (S),-071° 38´ 20´´ (W),1977-07-26,222,Republica de Peru,El Callao,-12° 03´ 13´´ (S),-077° 07´ 16´´ (W),7,5,1232
+1977,1977-07-31,222,Republica de Peru,El Callao,-12° 03´ 13´´ (S),-077° 07´ 16´´ (W),1977-08-04,210,Republica de Ecuador,Guayaquil,-02° 14´ 25´´ (S),-079° 52´ 53´´ (W),4,4,719
+1977,1977-08-08,210,Republica de Ecuador,Guayaquil,-02° 14´ 25´´ (S),-079° 52´ 53´´ (W),1977-08-12,220,Republica de Panama,Balboa,+08° 56´ 22´´ (N),-079° 33´ 17´´ (W),4,3,767
+1977,1977-08-15,220,Republica de Panama,Balboa,+08° 56´ 22´´ (N),-079° 33´ 17´´ (W),1977-08-17,205,Republica de Colombia,Cartagena de Indias,+10° 24´ 09´´ (N),-075° 31´ 12´´ (W),2,4,316
+1977,1977-08-21,205,Republica de Colombia,Cartagena de Indias,+10° 24´ 09´´ (N),-075° 31´ 12´´ (W),1977-08-23,215,Republica de Haiti,Puerto Principe,+18° 32´ 17´´ (N),-072° 20´ 32´´ (W),2,4,643
+1977,1977-08-27,215,Republica de Haiti,Puerto Principe,+18° 32´ 17´´ (N),-072° 20´ 32´´ (W),1977-08-29,209,Republica Dominicana,Santo Domingo,+18° 28´ 17´´ (N),-069° 52´ 29´´ (W),2,2,452
+1977,1977-08-31,209,Republica Dominicana,Santo Domingo,+18° 28´ 17´´ (N),-069° 52´ 29´´ (W),1977-09-08,212,Estados Unidos de America,New York,+40° 42´ 19´´ (N),-074° 01´ 03´´ (W),8,5,1528
+1977,1977-09-13,212,Estados Unidos de America,New York,+40° 42´ 19´´ (N),-074° 01´ 03´´ (W),1977-09-29,426,Reino Unido de Gran Bretania e Irlanda del Norte,Londres,+51° 30´ 27´´ (N),-000° 07´ 20´´ (W),16,7,3466
+1977,1977-10-06,426,Reino Unido de Gran Bretania e Irlanda del Norte,Londres,+51° 30´ 27´´ (N),-000° 07´ 20´´ (W),1977-10-08,438,Republica Federal de Alemania,Bremerhaven,+53° 32´ 34´´ (N),+008° 34´ 31´´ (E),2,1,405
+1977,1977-10-09,438,Republica Federal de Alemania,Bremerhaven,+53° 32´ 34´´ (N),+008° 34´ 31´´ (E),1977-10-09,438,Republica Federal de Alemania,Bremen,+53° 04´ 31´´ (N),+008° 47´ 43´´ (E),0,6,39
+1977,1977-10-15,438,Republica Federal de Alemania,Bremen,+53° 04´ 31´´ (N),+008° 47´ 43´´ (E),1977-10-20,412,Republica Francesa,Boulogne Sur Mer,+50° 43´ 48´´ (N),+001° 35´ 37´´ (E),5,7,408
+1977,1977-10-27,412,Republica Francesa,Boulogne Sur Mer,+50° 43´ 48´´ (N),+001° 35´ 37´´ (E),1977-10-31,410,Reino de Espania,Vigo,+42° 14´ 34´´ (N),-008° 42´ 15´´ (W),4,8,782
+1977,1977-11-08,410,Reino de Espania,Vigo,+42° 14´ 34´´ (N),-008° 42´ 15´´ (W),1977-11-12,410,Reino de Espania,Las Palmas de Gran Canaria,+28° 07´ 43´´ (N),-015° 25´ 49´´ (W),4,3,971
+1977,1977-11-15,410,Reino de Espania,Las Palmas de Gran Canaria,+28° 07´ 43´´ (N),-015° 25´ 49´´ (W),1977-12-01,203,Republica Federativa de Brasil,Rio de Janeiro,-22° 54´ 00´´ (S),-043° 12´ 00´´ (W),16,4,3797
+1977,1977-12-05,203,Republica Federativa de Brasil,Rio de Janeiro,-22° 54´ 00´´ (S),-043° 12´ 00´´ (W),1977-12-12,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),7,,1190
+1978,1978-06-27,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),1978-07-07,203,Republica Federativa de Brasil,Salvador de Bahia,-12° 58´ 16´´ (S),-038° 30´ 05´´ (W),10,4,1937
+1978,1978-07-11,203,Republica Federativa de Brasil,Salvador de Bahia,-12° 58´ 16´´ (S),-038° 30´ 05´´ (W),1978-07-24,226,Republica Bolivariana de Venezuela,La Guaira,+10° 36´ 00´´ (N),-066° 55´ 59´´ (W),13,4,2785
+1978,1978-07-28,226,Republica Bolivariana de Venezuela,La Guaira,+10° 36´ 00´´ (N),-066° 55´ 59´´ (W),1978-07-31,223,Estado Libre Asociado de Puerto Rico,Municipio Autonomo de San Juan,+18° 27´ 27´´ (N),-066° 12´ 32´´ (W),3,5,606
+1978,1978-08-05,223,Estado Libre Asociado de Puerto Rico,Municipio Autonomo de San Juan,+18° 27´ 27´´ (N),-066° 12´ 32´´ (W),1978-08-18,425,Republica Portuguesa,Funchal ,+32° 38´ 52´´ (N),-016° 54´ 38´´ (W),13,4,2854
+1978,1978-08-22,425,Republica Portuguesa,Funchal,+32° 38´ 52´´ (N),-016° 54´ 38´´ (W),1978-08-25,410,Reino de Espania,Malaga,+36° 42´ 38´´ (N),-004° 25´ 29´´ (W),3,8,689
+1978,1978-09-02,410,Reino de Espania,Malaga,+36° 42´ 38´´ (N),-004° 25´ 29´´ (W),1978-09-05,412,Republica Francesa,Toulon,+43° 07´ 00´´ (N),+005° 56´ 00´´ (E),3,9,663
+1978,1978-09-14,412,Republica Francesa,Toulon,+43° 07´ 00´´ (N),+005° 56´ 00´´ (E),1978-09-20,417,Republica Italiana,Venecia,+45° 26´ 08´´ (N),+012° 18´ 27´´ (E),6,8,1193
+1978,1978-09-28,417,Republica Italiana,Venecia,+45° 26´ 08´´ (N),+012° 18´ 27´´ (E),1978-09-29,,,Dijeba,,,1,5,175
+1978,1978-10-04,,,Dijeba,,,1978-10-08,413,Republica Helenica,El Pireo,+37° 57´ 00´´ (N),+011° 47´ 14´´ (E),4,5,866
+1978,1978-10-13,413,Republica Helenica,El Pireo,+37° 57´ 00´´ (N),+011° 47´ 14´´ (E),1978-10-20,302,Reino de Arabia Saudita,Jeddah,+21° 29´ 32´´ (N),+039° 11´ 19´´ (E),7,2,1337
+1978,1978-10-22,302,Reino de Arabia Saudita,Jeddah,+21° 29´ 32´´ (N),+039° 11´ 19´´ (E),1978-10-31,436,Republica de Turquia,Esmirna,+38° 22´ 25´´ (N),+027° 03´ 03´´ (E),9,4,1390
+1978,1978-11-04,436,Republica de Turquia,Esmirna,+38° 22´ 25´´ (N),+027° 03´ 03´´ (E),1978-11-09,127,Reino de Marruecos,Tanger,+35° 45´ 50´´ (N),-005° 47´ 52´´ (W),5,7,1708
+1978,1978-11-16,127,Reino de Marruecos,Tanger,+35° 45´ 50´´ (N),-005° 47´ 52´´ (W),1978-11-19,410,Reino de Espania,Santa Cruz de Tenerife,+28° 29´ 02´´ (N),-016° 14´ 55´´ (W),3,4,716
+1978,1978-11-23,410,Reino de Espania,Santa Cruz de Tenerife,+28° 29´ 02´´ (N),-016° 14´ 55´´ (W),1978-12-09,203,Republica Federativa de Brasil,Rio de Janeiro,-22° 54´ 00´´ (S),-043° 12´ 00´´ (W),16,5,3544
+1978,1978-12-14,203,Republica Federativa de Brasil,Rio de Janeiro,-22° 54´ 00´´ (S),-043° 12´ 00´´ (W),1978-12-19,225,Republica Oriental del Uruguay,Montevideo,-34° 54´ 24´´ (S),-056° 11´ 45´´ (W),5,2,1031
+1978,1978-12-21,225,Republica Oriental del Uruguay,Montevideo,-34° 54´ 24´´ (S),-056° 11´ 45´´ (W),1978-12-22,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),1,,138
+1979,1979-05-31,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),1979-06-14,203,Republica Federativa de Brasil,Recife,-08° 02´ 01´´ (S),-034° 52´ 29´´ (W),14,4,2539
+1979,1979-06-18,203,Republica Federativa de Brasil,Recife,-08° 02´ 01´´ (S),-034° 52´ 29´´ (W),1979-07-02,209,Republica Dominicana,Santo Domingo,+18° 28´ 17´´ (N),-069° 52´ 29´´ (W),14,4,2849
+1979,1979-07-06,209,Republica Dominicana,Santo Domingo,+18° 28´ 17´´ (N),-069° 52´ 29´´ (W),1979-07-12,212,Estados Unidos de America,Mayport,+30° 19´ 29´´ (N),-081° 37´ 45´´ (W),6,5,1219
+1979,1979-07-17,212,Estados Unidos de America,Mayport,+30° 19´ 29´´ (N),-081° 37´ 45´´ (W),1979-07-23,663,Bermuda,Hamilton,+32° 16´ 59´´ (N),-064° 46´ 00´´ (W),6,3,883
+1979,1979-07-26,663,Bermudas,Hamilton,+32° 16´ 59´´ (N),-064° 46´ 00´´ (W),1979-08-13,426,Reino Unido de Gran Bretania e Irlanda del Norte,Londres,+51° 30´ 27´´ (N),-000° 07´ 20´´ (W),18,5,3406
+1979,1979-08-18,426,Reino Unido de Gran Bretania e Irlanda del Norte,Londres,+51° 30´ 27´´ (N),-000° 07´ 20´´ (W),1979-08-27,444,Federacion de Rusia,San Petersburgo,+59° 57´ 24´´ (N),+030° 12´ 42´´ (E),9,6,1436
+1979,1979-09-02,444,Federacion de Rusia,San Petersburgo,+59° 57´ 24´´ (N),+030° 12´ 42´´ (E),1979-09-06,409,Reino de Dinamarca,Copenhague,+55° 40´ 17´´ (N),+012° 34´ 43´´ (E),4,4,717
+1979,1979-09-10,409,Reino de Dinamarca,Copenhague,+55° 40´ 17´´ (N),+012° 34´ 43´´ (E),1979-09-14,438,Republica Federal de Alemania,Hamburgo,+53° 32´ 51´´ (N),+009° 58´ 09´´ (E),4,6,526
+1979,1979-09-20,438,Republica Federal de Alemania,Hamburgo,+53° 32´ 51´´ (N),+009° 58´ 09´´ (E),1979-09-24,412,Republica Francesa,Cherburgo,+49° 38´ 20´´ (N),-001° 37´ 30´´ (W),4,11,555
+1979,1979-10-05,412,Republica Francesa,Cherburgo,+49° 38´ 20´´ (N),-001° 37´ 30´´ (W),1979-10-10,425,Republica Portuguesa,Lisboa,+38° 42´ 52´´ (N),-009° 09´ 40´´ (W),5,5,970
+1979,1979-10-15,425,Republica Portuguesa,Lisboa,+38° 42´ 52´´ (N),-009° 09´ 40´´ (W),1979-10-17,410,Republica de Espania,Cadiz,+36° 31´ 21´´ (N),-006° 16´ 53´´ (W),2,8,258
+1979,1979-10-25,410,Reino de Espania,Cadiz,+36° 31´ 21´´ (N),-006° 16´ 53´´ (W),1979-10-29,410,Republica de Espania,Las Palmas de Gran Canaria,+28° 07´ 43´´ (N),-015° 25´ 49´´ (W),4,4,721
+1979,1979-11-02,410,Reino de Espania,Las Palmas de Gran Canaria,+28° 07´ 43´´ (N),-015° 25´ 49´´ (W),1979-11-06,134,Republica de Senegal,Dakar,+14° 40´ 56´´ (N),-017° 26´ 26´´ (W),4,3,849
+1979,1979-11-09,134,Republica de Senegal,Dakar,+14° 40´ 56´´ (N),-017° 26´ 26´´ (W),1979-11-28,203,Republica Federativa de Brasil,Rio de Janeiro,-22° 54´ 00´´ (S),-043° 12´ 00´´ (W),19,2,2919
+1979,1979-11-30,203,Republica Federativa de Brasil,Rio de Janeiro,-22° 54´ 00´´ (S),-043° 12´ 00´´ (W),1979-12-06,225,Republica Oriental del Uruguay,Montevideo,-34° 54´ 24´´ (S),-056° 11´ 45´´ (W),6,5,1094
+1979,1979-12-11,225,Republica Oriental del Uruguay,Montevideo,-34° 54´ 24´´ (S),-056° 11´ 45´´ (W),1979-12-13,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),2,,120
+1980,1980-05-20,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),1980-05-31,203,Republica Federativa de Brasil,Salvador de Bahia,-12° 58´ 16´´ (S),-038° 30´ 05´´ (W),11,4,1954
+1980,1980-06-04,203,Republica Federativa de Brasil,Salvador de Bahia,-12° 58´ 16´´ (S),-038° 30´ 05´´ (W),1980-06-20,223,Estado Libre Asociado de Puerto Rico,Municipio Autonomo de San Juan,+18° 27´ 27´´ (N),-066° 12´ 32´´ (W),16,5,3077
+1980,1980-06-25,223,Estado Libre Asociado de Puerto Rico,Municipio Autonomo de San Juan,+18° 27´ 27´´ (N),-066° 12´ 32´´ (W),1980-07-03,212,Estados Unidos de America,Nueva York,+40° 42´ 19´´ (N),-074° 01´ 03´´ (W),8,8,1398
+1980,1980-07-11,212,Estados Unidos de America,Nueva York,+40° 42´ 19´´ (N),-074° 01´ 03´´ (W),1980-07-30,438,Republica Federal de Alemania,Bremen,+53° 04´ 31´´ (N),+008° 47´ 43´´ (E),19,7,3791
+1980,1980-08-06,438,Republica Federal de Alemania,Bremen,+53° 04´ 31´´ (N),+008° 47´ 43´´ (E),1980-08-08,406,Reino de Belgica,Amberes,+51° 12´ 08´´ (N),+004° 22´58´´ (E),2,5,437
+1980,1980-08-13,406,Reino de Belgica,Amberes,+51° 12´ 08´´ (N),+004° 22´58´´ (E),1980-08-21,410,Reino de Espania,Malaga,+36° 42´ 38´´ (N),-004° 25´ 29´´ (W),8,9,1475
+1980,1980-08-30,410,Reino de Espania,Malaga,+36° 42´ 38´´ (N),-004° 25´ 29´´ (W),1980-09-03,412,Republica Francesa,Toulon,+43° 07´ 00´´ (N),+005° 56´ 00´´ (E),4,9,730
+1980,1980-09-12,412,Republica Francesa,Toulon,+43° 07´ 00´´ (N),+005° 56´ 00´´ (E),1980-09-14,417,Republica Italiana,Civitavecchia,+42° 05´ 47´´ (N),+011° 47´ 14´´ (E),2,8,291
+1980,1980-09-22,417,Republica Italiana,Civitavecchia,+42° 05´ 47´´ (N),+011° 47´ 14´´ (E),1980-09-26,413,Republica Helenica,El Pireo,+37° 57´ 00´´ (N),+011° 47´ 14´´ (E),4,5,829
+1980,1980-10-01,413,Republica Helenica,El Pireo,+37° 57´ 00´´ (N),+011° 47´ 14´´ (E),1980-10-03,113,Republica arabe de Egipto,Alejandria,+31° 11´ 57´´ (N),+029° 53´ 43´´ (E),2,6,529
+1980,1980-10-09,113,Republica arabe de Egipto,Alejandria,+31° 11´ 57´´ (N),+029° 53´ 43´´ (E),1980-10-17,410,Reino de Espania,Palma de Mallorca,+33° 33´ 02´´ (N),+002° 37´ 29´´ (E),8,3,1511
+1980,1980-10-20,410,Reino de Espania,Palma de Mallorca,+33° 33´ 02´´ (N),+002° 37´ 29´´ (E),1980-10-26,410,Reino de Espania,Santa Cruz de Tenerife,+28° 29´ 02´´ (N),-016° 14´ 55´´ (W),6,4,1157
+1980,1980-10-30,410,Reino de Espania,Santa Cruz de Tenerife,+28° 29´ 02´´ (N),-016° 14´ 55´´ (W),1980-11-17,203,Republica Federativa de Brasil,Santos,-23° 58´ 25´´ (S),-046° 19´ 14´´ (W),18,4,3744
+1980,1980-11-21,203,Republica Federativa de Brasil,Santos,-23° 58´ 25´´ (S),-046° 19´ 14´´ (W),1980-11-28,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),7,,1016
+1981,1981-04-21,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),1981-05-05,203,Republica Federativa de Brasil,Fortaleza,-03° 43´ 51´´ (S),-038° 36´ 51´´ (W),14,3,2714
+1981,1981-05-08,203,Republica Federativa de Brasil,Fortaleza,-03° 43´ 51´´ (S),-038° 36´ 51´´ (W),1981-05-20,209,Republica Dominicana,Santo Domingo,+18° 28´ 17´´ (N),-069° 52´ 29´´ (W),12,3,2314
+1981,1981-05-23,209,Republica Dominicana,Santo Domingo,+18° 28´ 17´´ (N),-069° 52´ 29´´ (W),1981-05-29,663,Bermudas,Hamilton,+32° 16´ 59´´ (N),-064° 46´ 00´´ (W),6,3,1036
+1981,1981-06-01,663,Bermudas,Hamilton,+32° 16´ 59´´ (N),-064° 46´ 00´´ (W),1981-06-06,212,Estados Unidos de America,Baltimore,+39° 16´ 52´´ (N),-076° 35´ 44´´ (W),5,9,821
+1981,1981-06-15,212,Estados Unidos de America,Baltimore,+39° 16´ 52´´ (N),-076° 35´ 44´´ (W),1981-06-18,212,Estados Unidos de America,Portsmunth,+43° 03´ 41´´ (N),-070° 43´ 04´´ (W),3,2,717
+1981,1981-06-20,212,Estados Unidos de America,Portsmouth,+43° 03´ 41´´ (N),-070° 43´ 04´´ (W),1981-06-22,204,Canada,Halifax,+44° 37´ 32´´ (N),-063° 34´ 25´´ (W),2,3,412
+1981,1981-06-25,204,Canada,Halifax,+44° 37´ 32´´ (N),-063° 34´ 25´´ (W),1981-07-10,426,Reino Unido de Gran Bretania e Irlanda del Norte,Londres,+51° 30´ 27´´ (N),-000° 07´ 20´´ (W),15,6,2848
+1981,1981-07-16,426,Reino Unido de Gran Bretania e Irlanda del Norte,Londres,+51° 30´ 27´´ (N),-000° 07´ 20´´ (W),1981-07-20,409,Reino de Dinamarca,Copenhague,+55° 40´ 17´´ (N),+012° 34´ 43´´ (E),4,4,783
+1981,1981-07-24,409,Reino de Dinamarca,Copenhague,+55° 40´ 17´´ (N),+012° 34´ 43´´ (E),1981-07-27,438,Republica Federal de Alemania,Hamburgo,+53° 32´ 51´´ (N),+009° 58´ 09´´ (E),3,8,527
+1981,1981-08-04,438,Republica Federal de Alemania,Hamburgo,+53° 32´ 51´´ (N),+009° 58´ 09´´ (E),1981-08-08,412,Republica Francesa,Brest,+48° 23´ 12´´ (N),-004° 29´ 26´´ (W),4,9,763
+1981,1981-08-17,412,Republica Francesa,Brest,+48° 23´ 12´´ (N),-004° 29´ 26´´ (W),1981-08-20,425,Republica Portuguesa,Lisboa,+38° 42´ 52´´ (N),-009° 09´ 40´´ (W),3,3,686
+1981,1981-08-23,425,Republica Portuguesa,Lisboa,+38° 42´ 52´´ (N),-009° 09´ 40´´ (W),1981-08-25,410,Reino de Espania,Cadiz,+36° 31´ 21´´ (N),-006° 16´ 53´´ (W),2,8,285
+1981,1981-09-02,410,Reino de Espania,Cadiz,+36° 31´ 21´´ (N),-006° 16´ 53´´ (W),1981-09-05,410,Reino de Espania,Palma de Mallorca,+33° 33´ 02´´ (N),+002° 37´ 29´´ (E),3,4,574
+1981,1981-09-09,410,Reino de Espania,Palma de Mallorca,+33° 33´ 02´´ (N),+002° 37´ 29´´ (E),1981-09-11,141,Republica Tunecina,Tunez,+36° 49´ 06´´ (N),+010° 12´ 08´´ (E),2,3,435
+1981,1981-09-14,141,Republica Tunecina,Tunez,+36° 49´ 06´´ (N),+010° 12´ 08´´ (E),1981-09-22,410,Reino de Espania,Las Palmas de Gran Canaria,+28° 07´ 43´´ (N),-015° 25´ 49´´ (W),8,3,1534
+1981,1981-09-25,410,Reino de Espania,Las Palmas de Gran Canaria,+28° 07´ 43´´ (N),-015° 25´ 49´´ (W),1981-10-15,203,Republica Federativa de Brasil,Rio de Janeiro,-22° 54´ 00´´ (S),-043° 12´ 00´´ (W),20,4,3575
+1981,1981-10-19,203,Republica Federativa de Brasil,Rio de Janeiro,-22° 54´ 00´´ (S),-043° 12´ 00´´ (W),1981-10-25,225,Republica Oriental del Uruguay,Montevideo,-34° 54´ 24´´ (S),-056° 11´ 45´´ (W),6,2,1036
+1981,1981-10-27,225,Republica Oriental del Uruguay,Montevideo,-34° 54´ 24´´ (S),-056° 11´ 45´´ (W),1981-10-30,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),3,,112
+1982,1982-08-18,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),1982-08-30,203,Republica Federativa de Brasil,Recife,-08° 02´ 01´´ (S),-034° 52´ 29´´ (W),12,5,2183
+1982,1982-09-04,203,Republica Federativa de Brasil,Recife,-08° 02´ 01´´ (S),-034° 52´ 29´´ (W),1982-09-19,220,Republica de Panama,Balboa,+08° 56´ 22´´ (N),-079° 33´ 17´´ (W),15,6,3339
+1982,1982-09-25,220,Republica de Panama,Balboa,+08° 56´ 22´´ (N),-079° 33´ 17´´ (W),1982-09-29,210,Republica de Ecuador,Guayaquil,-02° 14´ 25´´ (S),-079° 52´ 53´´ (W),4,3,790
+1982,1982-10-02,210,Republica de Ecuador,Guayaquil,-02° 14´ 25´´ (S),-079° 52´ 53´´ (W),1982-10-05,222,Republica de Peru,El Callao,-12° 03´ 13´´ (S),-077° 07´ 16´´ (W),3,6,739
+1982,1982-10-11,222,Republica de Peru,El Callao,-12° 03´ 13´´ (S),-077° 07´ 16´´ (W),1982-10-22,226,Republica Bolivariana de Venezuela,La Guaira,+10° 36´ 00´´ (N),-066° 55´ 59´´ (W),11,6,2261
+1982,1982-10-28,226,Republica Bolivariana de Venezuela,La Guaira,+10° 36´ 00´´ (N),-066° 55´ 59´´ (W),1982-11-11,203,Republica Federativa de Brasil,Salvador de Bahia,-12° 58´ 16´´ (S),-038° 30´ 05´´ (W),14,4,2807
+1982,1982-11-15,203,Republica Federativa de Brasil,Salvador de Bahia,-12° 58´ 16´´ (S),-038° 30´ 05´´ (W),1982-11-19,203,Republica Federativa de Brasil,Rio de Janeiro,-22° 54´ 00´´ (S),-043° 12´ 00´´ (W),4,6,806
+1982,1982-11-25,203,Republica Federativa de Brasil,Rio de Janeiro,-22° 54´ 00´´ (S),-043° 12´ 00´´ (W),1982-12-02,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),7,,1156
+1983,1983-06-13,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),1983-06-24,203,Republica Federativa de Brasil,Salvador de Bahia ,-12° 58´ 16´´ (S),-038° 30´ 05´´ (W),11,5,2012
+1983,1983-06-29,203,Republica Federativa de Brasil,Salvador de Bahia ,-12° 58´ 16´´ (S),-038° 30´ 05´´ (W),1983-07-13,209,Republica Dominicana,Santo Domingo,+18° 28´ 17´´ (N),-069° 52´ 29´´ (W),14,4,3079
+1983,1983-07-17,209,Republica Dominicana,Santo Domingo,+18° 28´ 17´´ (N),-069° 52´ 29´´ (W),1983-07-23,226,Republica Bolivariana de Venezuela,La Guaira,+10° 36´ 00´´ (N),-066° 55´ 59´´ (W),6,3,539
+1983,1983-07-26,226,Republica Bolivariana de Venezuela,La Guaira,+10° 36´ 00´´ (N),-066° 55´ 59´´ (W),1983-08-11,410,Reino de Espania,Santa Cruz de Tenerife,+28° 29´ 02´´ (N),-016° 14´ 55´´ (W),16,5,3117
+1983,1983-08-16,410,Republica de Espania,Santa Cruz de Tenerife,+28° 29´ 02´´ (N),-016° 14´ 55´´ (W),1983-08-23,412,Republica Francesa,Toulon,+43° 07´ 00´´ (N),+005° 56´ 00´´ (E),7,10,1447
+1983,1983-09-02,412,Republica Francesa,Toulon,+43° 07´ 00´´ (N),+005° 56´ 00´´ (E),1983-09-07,127,Reino de Marruecos,Casablanca,+33° 34´ 42´´ (N),-007° 37´ 28´´ (W),5,5,938
+1983,1983-09-12,127,Reino de Marruecos,Casablanca,+33° 34´ 42´´ (N),-007° 37´ 28´´ (W),1983-09-15,410,Reino de Espania,Las Palmas de Gran Canaria,+28° 07´ 43´´ (N),-015° 25´ 49´´ (W),3,5,583
+1983,1983-09-20,410,Reino de Espania,Las Palmas de Gran Canaria,+28° 07´ 43´´ (N),-015° 25´ 49´´ (W),1983-10-07,203,Republica Federativa de Brasil,Rio de Janeiro,-22° 54´ 00´´ (S),-043° 12´ 00´´ (W),17,5,3533
+1983,1983-10-12,203,Republica Federativa de Brasil,Rio de Janeiro,-22° 54´ 00´´ (S),-043° 12´ 00´´ (W),1983-10-19,225,Republica Oriental del Uruguay,Montevideo,-34° 54´ 24´´ (S),-056° 11´ 45´´ (W),7,3,1043
+1983,1983-10-22,225,Republica Oriental del Uruguay,Montevideo,-34° 54´ 24´´ (S),-056° 11´ 45´´ (W),1983-10-25,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),3,,122
+1984,1984-06-22,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),1984-07-02,203,Republica Federativa de Brasil,Salvador Bahia ,-12° 58´ 16´´ (S),-038° 30´ 05´´ (W),10,3,2166
+1984,1984-07-05,203,Republica Federativa de Brasil,Salvador de Bahia,-12° 58´ 16´´ (S),-038° 30´ 05´´ (W),1984-07-20,223,Estado Libre Asociado de Puerto Rico,Municipio Autonomo de San Juan,+18° 27´ 27´´ (N),-066° 12´ 32´´ (W),15,3,2552
+1984,1984-07-23,223,Estado Libre Asociado de Puerto Rico,Municipio Autonomo de San Juan,+18° 27´ 27´´ (N),-066° 12´ 32´´ (W),1984-07-31,212,Estados Unidos de America,Boston,+42° 21´ 00´´ (N),-071° 04´ 59´´ (W),8,6,1871
+1984,1984-08-06,212,Estados Unidos de America,Boston,+42° 21´ 00´´ (N),-071° 04´ 59´´ (W),1984-08-12,204,Canada,Quebec,+46° 47´ 43´´ (N),-071° 13´ 32´´ (W),6,7,1537
+1984,1984-08-19,204,Canada,Quebec,+46° 47´ 43´´ (N),-071° 13´ 32´´ (W),1984-09-01,425,Republica Portuguesa,Lisboa,+38° 42´ 52´´ (N),-009° 09´ 40´´ (W),13,5,662
+1984,1984-09-06,425,Republica Portuguesa,Lisboa,+38° 42´ 52´´ (N),-009° 09´ 40´´ (W),1984-09-10,410,Reino de Espania,Palma de Mallorca,+33° 33´ 02´´ (N),+002° 37´ 29´´ (E),4,4,320
+1984,1984-09-14,410,Reino de Espania,Palma de Mallorca,+33° 33´ 02´´ (N),+002° 37´ 29´´ (E),1984-09-17,417,Republica Italiana,Genova,+44° 24´ 52´´ (N),+008° 54´ 54´´ (E),3,11,436
+1984,1984-09-28,417,Republica Italiana,Genova,+44° 24´ 52´´ (N),+008° 54´ 54´´ (E),1984-10-01,412,Republica Francesa,Toulon,+43° 07´ 00´´ (N),+005° 56´ 00´´ (E),3,11,174
+1984,1984-10-12,412,Republica Francesa,Toulon,+43° 07´ 00´´ (N),+005° 56´ 00´´ (E),1984-10-13,410,Reino de Espania,Barcelona,+41 21´ 00´´ (N),+002° 10´ 00´´ (E),1,11,1983
+1984,1984-10-24,410,Reino de Espania,Barcelona,+41° 21´ 00´´ (N),+002° 10´ 00´´ (E),1984-10-30,410,Reino de Espania,Las Palmas de Gran Canaria,+28° 07´ 43´´ (N),-015° 25´ 49´´ (W),6,3,1670
+1984,1984-11-02,410,Reino de Espania,Las Palmas de Gran Canaria,+28° 07´ 43´´ (N),-015° 25´ 49´´ (W),1984-11-20,203,Republica Federativa de Brasil,Rio de Janeiro,-22° 54´ 00´´ (S),-043° 12´ 00´´ (W),18,4,2594
+1984,1984-11-24,203,Republica Federativa de Brasil,Rio de Janeiro,-22° 54´ 00´´ (S),-043° 12´ 00´´ (W),1984-12-01,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),7,,126
+1985,1985-06-21,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),1985-07-02,203,Republica Federativa de Brasil,Recife,-08° 02´ 01´´ (S),-034° 52´ 29´´ (W),11,4,2166
+1985,1985-07-06,203,Republica Federativa de Brasil,Recife,-08° 02´ 01´´ (S),-034° 52´ 29´´ (W),1985-07-18,410,Reino de Espania,Santa Cruz de Tenerife,+28° 29´ 02´´ (N),-016° 14´ 55´´ (W),12,4,2552
+1985,1985-07-22,410,Reino de Espania,Santa Cruz de Tenerife,+28° 29´ 02´´ (N),-016° 14´ 55´´ (W),1985-07-31,423,Paises Bajos,Amsterdam,+52° 22´ 31´´ (N),+004° 54´ 14´´ (E),9,6,1871
+1985,1985-08-06,423,Paises Bajos,Amsterdam,+52° 22´ 31´´ (N),+004° 54´ 14´´ (E),1985-08-14,410,Reino de Espania,Malaga,+36° 42´ 38´´ (N),-004° 25´ 29´´ (W),8,9,1537
+1985,1985-08-23,410,Reino de Espania,Malaga,+36° 42´ 38´´ (N),-004° 25´ 29´´ (W),1985-08-26,412,Republica Francesa,Marsella,+43° 17´ 32´´ (N),+005° 21´ 18´´ (E),3,9,662
+1985,1985-09-04,412,Republica Francesa,Marsella,+43° 17´ 32´´ (N),+005° 21´ 18´´ (E),1985-09-05,417,Republica Italiana,Civitavecchia,+42° 05´ 47´´ (N),+011° 47´ 14´´ (E),1,9,320
+1985,1985-09-14,417,Republica Italiana,Civitavecchia,+42° 05´ 47´´ (N),+011° 47´ 14´´ (E),1985-09-16,410,Reino de Espania,Palmas de Mallorca,+33° 33´ 02´´ (N),+002° 37´ 29´´ (E),2,3,436
+1985,1985-09-19,410,Reino de Espania,Palmas de Mallorca,+33° 33´ 02´´ (N),+002° 37´ 29´´ (E),1985-09-21,102,Republica Argelina Democratica y Popular,Argel ,+36° 47´ 09´´ (N),+003° 03´ 54´´ (E),2,4,174
+1985,1985-09-25,102,Republica Argelina Democratica y Popular,Argel ,+36° 47´ 09´´ (N),+003° 03´ 54´´ (E),1985-10-04,134,Republica de Senegal,Dakar,+14° 40´ 56´´ (N),-017° 26´ 26´´ (W),9,4,1983
+1985,1985-10-08,134,Republica de Senegal,Dakar,+14° 40´ 56´´ (N),-017° 26´ 26´´ (W),1985-10-16,203,Republica Federativa de Brasil,Fortaleza,-03° 43´ 51´´ (S),-038° 36´ 51´´ (W),8,5,1670
+1985,1985-10-21,203,Republica Federativa de Brasil,Fortaleza,-03° 43´ 51´´ (S),-038° 36´ 51´´ (W),1985-11-02,225,Republica Oriental del Uruguay,Montevideo,-34° 54´ 24´´ (S),-056° 11´ 45´´ (W),12,4,2594
+1985,1985-11-06,225,Republica Oriental del Uruguay,Montevideo,-34° 54´ 24´´ (S),-056° 11´ 45´´ (W),1985-11-09,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),3,,126
+1986,1986-05-02,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),1986-05-12,208,Republica de Chile,Punta Arenas,-53° 06´ 06´´ (S),-070° 56´ 28´´ (W),10,2,1807
+1986,1986-05-14,208,Republica de Chile,Punta Arenas,-53° 06´ 06´´ (S),-070° 56´ 28´´ (W),1986-05-29,222,Republica de Peru,El Callao,-12° 03´ 13´´ (S),-077° 07´ 16´´ (W),15,4,3267
+1986,1986-06-02,222,Republica de Peru,El Callao,-12° 03´ 13´´ (S),-077° 07´ 16´´ (W),1986-06-06,210,Republica de Ecuador,Guayaquil,-02° 14´ 25´´ (S),-079° 52´ 53´´ (W),4,4,733
+1986,1986-06-10,210,Republica de Ecuador,Guayaquil,-02° 14´ 25´´ (S),-079° 52´ 53´´ (W),1986-06-16,220,Republica de Panama,Balboa,+08° 56´ 22´´ (N),-079° 33´ 17´´ (W),6,3,837
+1986,1986-06-19,220,Republica de Panama,Balboa,+08° 56´ 22´´ (N),-079° 33´ 17´´ (W),1986-06-27,212,Estados Unidos de America,Norfolk,+36° 51´ 09´´ (N),-076° 20´ 14´´ (W),8,3,2115
+1986,1986-06-30,212,Estados Unidos de America,Norfolk,+36° 51´ 09´´ (N),-076° 20´ 14´´ (W),1986-07-06,212,Estados Unidos de America,New York ,+40° 42´ 19´´ (N),-074° 01´ 03´´ (W),6,3,376
+1986,1986-07-09,212,Estados Unidos de America,New York ,+40° 42´ 19´´ (N),-074° 01´ 03´´ (W),1986-07-27,438,Rpublica Federal de Alemania,Bremerhaven,+53° 32´ 34´´ (N),+008° 34´ 31´´ (E),18,4,3698
+1986,1986-07-31,438,Republica Federal de Alemania,Bremerhaven,+53° 32´ 34´´ (N),+008° 34´ 31´´ (E),1986-08-02,412,Republica Francesa,Boulogne Sur Mer,+50° 43´ 48´´ (N),+001° 35´ 37´´ (E),2,7,339
+1986,1986-08-09,412,Republica Francesa,Boulogne Sur Mer,+50° 43´ 48´´ (N),+001° 35´ 37´´ (E),1986-08-15,410,Reino de Espania,Huelva,+37° 13´ 56´´ (N),-006° 57´ 00´´ (W),6,7,1228
+1986,1986-08-22,410,Reino de Espania,Huelva,+37° 13´ 56´´ (N),-006° 57´ 00´´ (W),1986-08-28,417,Republica Italiana,Genova,+44° 24´ 52´´ (N),+008° 54´ 54´´ (E),6,7,1031
+1986,1986-09-04,417,Republica Italiana,Genova,+44° 24´ 52´´ (N),+008° 54´ 54´´ (E),1986-09-12,410,Reino de Espania,Las Palmas de Gran Canaria,+28° 07´ 43´´ (N),-015° 25´ 49´´ (W),8,4,1625
+1986,1986-09-16,410,Reino de Espania,Las Palmas de Gran Canaria,+28° 07´ 43´´ (N),-015° 25´ 49´´ (W),1986-10-04,203,Republica Federativa de Brasil,Rio de Janeiro,-22° 54´ 00´´ (S),-043° 12´ 00´´ (W),18,6,3737
+1986,1986-10-10,203,Republica Federativa de Brasil,Rio de Janeiro,-22° 54´ 00´´ (S),-043° 12´ 00´´ (W),1986-10-18,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),8,,1158
+1987,1987-06-16,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),1987-06-30,203,Republica Federativa de Brasil,Recife,-08° 02´ 01´´ (S),-034° 52´ 29´´ (W),14,3,2516
+1987,1987-07-03,203,Republica Federativa de Brasil,Recife,-08° 02´ 01´´ (S),-034° 52´ 29´´ (W),1987-07-17,226,Republica Bolivariana de Venezuela,La Guayra,+10° 36´ 00´´ (N),-066° 55´ 59´´ (W),14,5,2844
+1987,1987-07-22,226,Republica Bolivariana de Venezuela,La Guayra,+10° 36´ 00´´ (N),-066° 55´ 59´´ (W),1987-07-31,212,Estados Unidos de America,Baltimore,+39° 16´ 52´´ (N),-076° 35´ 44´´ (W),9,7,1882
+1987,1987-08-07,212,Estados Unidos de America,Baltimore,+39° 16´ 52´´ (N),-076° 35´ 44´´ (W),1987-08-27,415,Republica de Irlanda,Dublin,+53° 20´ 36´´ (N),-006° 13´ 35´´ (W),20,4,3458
+1987,1987-08-31,415,Republica de Irlanda,Dublin,+53° 20´ 36´´ (N),-006° 13´ 35´´ (W),1987-09-04,406,Reino de Belgica,Amberes,+51° 12´ 08´´ (N),+004° 22´58´´ (E),4,7,665
+1987,1987-09-11,406,Reino de Belgica,Amberes,+51° 12´ 08´´ (N),+004° 22´58´´ (E),1987-09-18,410,Reino de Espania,Malaga,+36° 42´ 38´´ (N),-004° 25´ 29´´ (W),7,6,663
+1987,1987-09-24,410,Reino de Espania,Malaga,+36° 42´ 38´´ (N),-004° 25´ 29´´ (W),1987-09-28,412,Republica Francesa,Marsella,+43° 17´ 32´´ (N),+005° 21´ 18´´ (E),4,8,664
+1987,1987-10-06,412,Republica Francesa,Marsella,+43° 17´ 32´´ (N),+005° 21´ 18´´ (E),1987-10-09,417,Republica Italiana,Napoles,+40° 50´ 35´´ (N),+014° 15´ 36´´ (E),3,7,500
+1987,1987-10-16,417,Republica Italiana,Napoles,+40° 50´ 35´´ (N),+014° 15´ 36´´ (E),1987-10-23,447,Republica de Croacia,Dubrovnik,+42° 39´ 45´´ (N),+018° 05´ 12´´ (E),7,17,601
+1987,1987-11-09,447,Republica de Croacia,Dubrovnik,+42° 39´ 45´´ (N),+018° 05´ 12´´ (E),1987-11-12,134,Republica de Senegal,Dakar,+14° 40´ 56´´ (N),-017° 26´ 26´´ (W),3,15,3211
+1987,1987-11-27,134,Republica de Senegal,Dakar,+14° 40´ 56´´ (N),-017° 26´ 26´´ (W),1987-12-01,203,Republica Federativa de Brasil,Rio de Janeiro,-22° 54´ 00´´ (S),-043° 12´ 00´´ (W),4,6,2865
+1987,1987-12-07,203,Republica Federativa de Brasil,Rio de Janeiro,-22° 54´ 00´´ (S),-043° 12´ 00´´ (W),1987-12-10,225,Republica Oriental del Uruguay,Montevideo,-34° 54´ 24´´ (S),-056° 11´ 45´´ (W),3,2,1079
+1987,1987-12-12,225,Republica Oriental del Uruguay,Montevideo,-34° 54´ 24´´ (S),-056° 11´ 45´´ (W),1987-12-12,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),0,,146
+1988,1988-05-23,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),1988-06-05,203,Republica Federativa de Brasil,Fortaleza,-03° 43´ 51´´ (S),-038° 36´ 51´´ (W),13,4,2270
+1988,1988-06-09,203,Republica Federativa de Brasil,Fortaleza,-03° 43´ 51´´ (S),-038° 36´ 51´´ (W),1988-06-22,205,Republica de Colombia,Cartagena de Indias,+10° 24´ 09´´ (N),-075° 31´ 12´´ (W),13,2,2563
+1988,1988-06-24,205,Republica de Colombia,Cartagena de Indias,+10° 24´ 09´´ (N),-075° 31´ 12´´ (W),1988-07-02,218,Estados Unidos Mexicanos,Acapulco,+16° 50´ 54´´ (N),-099° 55´ 04´´ (W),8,4,1803
+1988,1988-07-06,218,Estados Unidos Mexicanos,Acapulco,+16° 50´ 54´´ (N),-099° 55´ 04´´ (W),1988-07-14,212,Estados Unidos de America,Monterrey ,+36° 36´ 32´´ (N),-121° 53´ 28´´ (W),8,2,1829
+1988,1988-07-16,212,Estados Unidos de America,Monterrey ,+36° 36´ 32´´ (N),-121° 53´ 28´´ (W),1988-07-18,212,Estados Unidos de America,San Francisco,+37° 48´ 29´´ (N),-122° 24´ 36´´ (W),2,6,111
+1988,1988-07-24,212,Estados Unidos de America,San Francisco,+37° 48´ 29´´ (N),-122° 24´ 36´´ (W),1988-08-04,212,Estados Unidos de America,Honolulu,+21° 17´ 55´´ (N),-157° 51´ 58´´ (W),11,5,2101
+1988,1988-08-09,212,Estados Unidos de America,Honolulu,+21° 17´ 55´´ (N),-157° 51´ 58´´ (W),1988-08-27,320,Estado de Japon,Tokyo,+35° 38´ 56´´ (N),+139° 47´ 29´´ (E),18,5,3506
+1988,1988-09-01,320,Estado de Japon,Tokyo,+35° 38´ 56´´ (N),+139° 47´ 29´´ (E),1988-09-06,310,Republica Popular China,Shanghai,+31° 24´ 00´´ (N),+121° 29´ 49´´ (E),5,4,1109
+1988,1988-09-10,310,Republica Popular China,Shanghai,+31° 24´ 00´´ (N),+121° 29´ 49´´ (E),1988-09-22,513,Nueva Guinea,Puerto Moresby,-09° 25´ 34´´ (S),+147° 06´ 40´´ (E),12,3,3750
+1988,1988-09-25,513,Nueva Guinea,Puerto Moresby,-09° 25´ 34´´ (S),+147° 06´ 40´´ (E),1988-10-03,501,Mancomunidad de Australia,Brisbane,-27° 27´ 59´´ (S),+153° 10´ 59´´ (E),8,4,1240
+1988,1988-10-07,501,Mancomunidad de Australia,Brisbane,-27° 27´ 59´´ (S),+153° 10´ 59´´ (E),1988-10-15,554,Nueva Zelanda,Wellington,-41° 15´ 17´´ (S),+174° 46´ 23´´ (E),8,4,1570
+1988,1988-10-19,554,Nueva Zelanda,Wellington,-41° 15´ 17´´ (S),+174° 46´ 23´´ (E),1988-10-31,258,Tahiti,Papeete,-17° 32´ 00´´ (S),-049° 39´ 24´´ (W),12,2,2391
+1988,1988-11-02,258,Tahiti (Polinesia Francesa),Papeete,-17° 32´ 00´´ (S),-049° 39´ 24´´ (W),1988-11-15,208,Republica de Chile,Isla de Pascua,-27° 09´ 20´´ (S),-109° 26´ 08´´ (W),13,0,2316
+1988,1988-11-15,208,Republica de Chile,Isla de Pascua,-27° 09´ 20´´ (S),-109° 26´ 08´´ (W),1988-11-29,208,Republica de Chile,Punta Arenas,-53° 06´ 06´´ (S),-070° 56´ 28´´ (W),14,3,3122
+1988,1988-12-02,208,Republica de Chile,Punta Arenas,-53° 06´ 06´´ (S),-070° 56´ 28´´ (W),1989-01-10,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),39,,1408
+1989,1989-05-30,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),1989-06-09,203,Republica Federativa de Brasil,Recife,-08° 02´ 01´´ (S),-034° 52´ 29´´ (W),10,5,2257
+1989,1989-06-14,203,Republica Federativa de Brasil,Recife,-08° 02´ 01´´ (S),-034° 52´ 29´´ (W),1989-06-29,127,Reino de Marruecos,Casablanca,+33° 34´ 42´´ (N),-007° 37´ 28´´ (W),15,3,3070
+1989,1989-07-02,127,Reino de Marruecos,Casablanca,+33° 34´ 42´´ (N),-007° 37´ 28´´ (W),1989-07-09,412,Republica Francesa,Rouen,+49° 26´ 12´´ (N),+001° 03´ 24´´ (E),7,7,1418
+1989,1989-07-16,412,Republica Francesa,Rouen,+49° 26´ 12´´ (N),+001° 03´ 24´´ (E),1989-07-20,438,Republica Federal de Alemania,Hamburgo,+53° 32´ 51´´ (N),+009° 58´ 09´´ (E),4,5,576
+1989,1989-07-25,438,Republica Federal de Alemania,Hamburgo,+53° 32´ 51´´ (N),+009° 58´ 09´´ (E),1989-08-01,422,Reino de Noruega,Oslo,+59° 54´ 16´´ (N),+010° 44´ 20´´ (E),7,0,473
+1989,1989-08-01,422,Reino de Noruega,Oslo,+59° 54´ 16´´ (N),+010° 44´ 20´´ (E),1989-08-08,410,Reino de Espania,La Corunia,+43° 28´ 08´´ (N),-008° 16´ 00´´ (W),7,5,1337
+1989,1989-08-13,410,Reino de Espania,La Corunia,+43° 28´ 08´´ (N),-008° 16´ 00´´ (W),1989-08-15,425,Republica Portuguesa,Lisboa,+38° 42´ 52´´ (N),-009° 09´ 40´´ (W),2,3,256
+1989,1989-08-18,425,Republica Portuguesa,Lisboa,+38° 42´ 52´´ (N),-009° 09´ 40´´ (W),1989-09-03,212,Estados Unidos de America,Norfolk,+36° 51´ 09´´ (N),-076° 20´ 14´´ (W),16,4,3661
+1989,1989-09-07,212,Estados Unidos de America,Norfolk,+36° 51´ 09´´ (N),-076° 20´ 14´´ (W),1989-09-09,212,Estados Unidos de America,Baltimore,+39° 16´ 52´´ (N),-076° 35´ 44´´ (W),2,9,164
+1989,1989-09-18,212,Estados Unidos de America,Baltimore,+39° 16´ 52´´ (N),-076° 35´ 44´´ (W),1989-09-26,209,Republica Dominicana,Santo Domingo,+18° 28´ 17´´ (N),-069° 52´ 29´´ (W),8,3,1745
+1989,1989-09-29,209,Republica Dominicana,Santo Domingo,+18° 28´ 17´´ (N),-069° 52´ 29´´ (W),1989-10-12,222,Republica de Peru,El Callao,-12° 03´ 13´´ (S),-077° 07´ 16´´ (W),13,3,2243
+1989,1989-10-15,222,Republica de Peru,El Callao,-12° 03´ 13´´ (S),-077° 07´ 16´´ (W),1989-10-25,208,Republica de Chile,Valparaiso,-33° 03´ 01´´ (S),-071° 38´ 20´´ (W),10,4,1546
+1989,1989-10-29,208,Republica de Chile,Valparaiso,-33° 03´ 01´´ (S),-071° 38´ 20´´ (W),1989-11-08,200,Republica Argentina,Ushuaia,-54° 47´ 17´´ (S),-068° 17´ 40´´ (W),10,2,1835
+1989,1989-11-10,200,Republica Argentina,Ushuaia,-54° 47´ 17´´ (S),-068° 17´ 40´´ (W),1989-11-24,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),14,,1737
+1990,1990-06-04,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),1990-06-16,203,Republica Federativa de Brasil,Fortaleza,-03° 43´ 51´´ (S),-038° 36´ 51´´ (W),12,3,2608
+1990,1990-06-19,203,Republica Federativa de Brasil,Fortaleza,-03° 43´ 51´´ (S),-038° 36´ 51´´ (W),1990-07-07,212,Estados Unidos de America,Baltimore,+39° 16´ 52´´ (N),-076° 35´ 44´´ (W),18,6,3382
+1990,1990-07-13,212,Estados Unidos de America,Baltimore,+39° 16´ 52´´ (N),-076° 35´ 44´´ (W),1990-08-02,406,Reino de Belgica,Zeebgrugge,+51° 20´ 13´´ (N),+003° 13´ 02´´ (E),20,5,3644
+1990,1990-08-07,406,Reino de Belgica,Zeebgrugge,+51° 20´ 13´´ (N),+003° 13´ 02´´ (E),1990-08-09,423,Paises Bajos,Amsterdam,+52° 22´ 31´´ (N),+004° 54´ 14´´ (E),2,5,160
+1990,1990-08-14,423,Paises Bajos,Amsterdam,+52° 22´ 31´´ (N),+004° 54´ 14´´ (E),1990-08-15,438,Republica Federal de Alemania,Bremerhaven,+53° 32´ 34´´ (N),+008° 34´ 31´´ (E),1,5,224
+1990,1990-08-20,438,Republica Federal de Alemania,Bremerhaven,+53° 32´ 34´´ (N),+008° 34´ 31´´ (E),1990-08-26,410,Reino de Espania,Vigo,+42° 14´ 34´´ (N),-008° 42´ 15´´ (W),6,3,1138
+1990,1990-08-29,410,Reino de Espania,Vigo,+42° 14´ 34´´ (N),-008° 42´ 15´´ (W),1990-08-31,410,Reino de Espania,Cadiz,+36° 31´ 21´´ (N),-006° 16´ 53´´ (W),2,4,482
+1990,1990-09-04,410,Reino de Espania,Cadiz,+36° 31´ 21´´ (N),-006° 16´ 53´´ (W),1990-09-09,417,Republica Italiana,La Spezia,+44° 05´ 53´´ (N),+009° 49´ 18´´ (E),5,4,1033
+1990,1990-09-13,417,Republica Italiana,La Spezia,+44° 05´ 53´´ (N),+009° 49´ 18´´ (E),1990-09-14,417,Republica Italiana,Civitavecchia,+42° 05´ 47´´ (N),+011° 47´ 14´´ (E),1,4,160
+1990,1990-09-18,417,Republica Italiana,Civitavecchia,+42° 05´ 47´´ (N),+011° 47´ 14´´ (E),1990-09-22,413,Republica Helenica,El Pireo,+37° 57´ 00´´ (N),+011° 47´ 14´´ (E),4,6,851
+1990,1990-09-28,413,Republica Helenica,El Pireo,+37° 57´ 00´´ (N),+011° 47´ 14´´ (E),1990-10-02,420,Republica de Malta,Valletta,+37° 57´ 00´´ (N),+014° 31´ 00´´ (E),4,13,580
+1990,1990-10-15,420,Republica de Malta,Valletta,+37° 57´ 00´´ (N),+014° 31´ 00´´ (E),1990-11-05,425,Republica Portuguesa,Funchal ,+32° 38´ 52´´ (N),-016° 54´ 38´´ (W),21,21,
+1990,1990-10-15,425,Republica Portuguesa,Funchal ,+32° 38´ 52´´ (N),-016° 54´ 38´´ (W),1990-11-05,203,Republica Federativa de Brasil,Rio de Janeiro,-22° 54´ 00´´ (S),-043° 12´ 00´´ (W),21,4,3862
+1990,1990-11-09,203,Republica Federativa de Brasil,Rio de Janeiro,-22° 54´ 00´´ (S),-043° 12´ 00´´ (W),1990-11-15,225,Republica Oriental del Uruguay,Montevideo,-34° 54´ 24´´ (S),-056° 11´ 45´´ (W),6,4,1044
+1990,1990-11-19,225,Republica Oriental del Uruguay,Montevideo,-34° 54´ 24´´ (S),-056° 11´ 45´´ (W),1990-11-23,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),4,,137
+1992,1992-01-24,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),1992-02-09,203,Republica Federativa de Brasil,Salvador de Bahia,-12° 58´ 16´´ (S),-038° 30´ 05´´ (W),16,5,2047
+1992,1992-02-14,203,Republica Federativa de Brasil,Salvador de Bahia,-12° 58´ 16´´ (S),-038° 30´ 05´´ (W),1992-03-09,425,Republica Portuguesa,Funchal ,+32° 38´ 52´´ (N),-016° 54´ 38´´ (W),24,4,3131
+1992,1992-03-13,425,Republica Portuguesa,Funchal ,+32° 38´ 52´´ (N),-016° 54´ 38´´ (W),1992-03-16,410,Reino de Espania,Valencia,+39° 27´ 03´´ (N),-000° 19´ 48´´ (W),3,10,1059
+1992,1992-03-26,410,Reino de Espania,Valencia,+39° 27´ 03´´ (N),-000° 19´ 48´´ (W),1992-04-02,417,Republica Italiana,Napoles,+40° 50´ 35´´ (N),+014° 15´ 36´´ (E),7,7,795
+1992,1992-04-09,417,Republica Italiana,Napoles,+40° 50´ 35´´ (N),+014° 15´ 36´´ (E),1992-04-11,417,Republica Italiana,Santa Margherita de Ligure,+44° 20´ 06´´ (N),+009° 12´ 36´´ (E),2,2,349
+1992,1992-04-13,417,Republica Italiana,Santa Margherita de Ligure,+44° 20´ 06´´ (N),+009° 12´ 36´´ (E),1992-04-14,417,Republica Italiana,Genova ,+44° 24´ 52´´ (N),+008° 54´ 54´´ (E),1,5,20
+1992,1992-04-19,417,Republica Italiana,Genova ,+44° 24´ 52´´ (N),+008° 54´ 54´´ (E),1992-04-28,410,Reino de Espania,Cadiz,+36° 31´ 21´´ (N),-006° 16´ 53´´ (W),9,5,1296
+1992,1992-05-03,410,Reino de Espania,Cadiz,+36° 31´ 21´´ (N),-006° 16´ 53´´ (W),1992-05-06,410,Reino de Espania,Santa Cruz de Tenerife,+28° 29´ 02´´ (N),-016° 14´ 55´´ (W),3,6,767
+1992,1992-05-12,410,Reino de Espania,Santa Cruz de Tenerife,+28° 29´ 02´´ (N),-016° 14´ 55´´ (W),1992-06-06,223,Estado Libre Asociado de Puerto Rico,Municipio Autonomo de San Juan,+18° 27´ 27´´ (N),-066° 12´ 32´´ (W),25,8,3210
+1992,1992-06-14,223,Estado Libre Asociado de Puerto Rico,Municipio Autonomo de San Juan,+18° 27´ 27´´ (N),-066° 12´ 32´´ (W),1992-06-15,209,Republica Dominicana,Santo Domingo,+18° 28´ 17´´ (N),-069° 52´ 29´´ (W),1,2,241
+1992,1992-06-17,209,Republica Dominicana,Santo Domingo,+18° 28´ 17´´ (N),-069° 52´ 29´´ (W),1992-06-26,212,Estados Unidos de America,Norfolk,+36° 51´ 09´´ (N),-076° 20´ 14´´ (W),9,4,1395
+1992,1992-06-30,212,Estados Unidos de America,Norfolk,+36° 51´ 09´´ (N),-076° 20´ 14´´ (W),1992-07-04,212,Estados Unidos de America,Nueva York,+40° 42´ 19´´ (N),-074° 01´ 03´´ (W),4,3,340
+1992,1992-07-07,212,Estados Unidos de America,Nueva York,+40° 42´ 19´´ (N),-074° 01´ 03´´ (W),1992-07-08,212,Estados Unidos de America,Newport,+41° 28´ 55´´ (N),-071° 18´ 52´´ (W),1,2,174
+1992,1992-07-10,212,Estados Unidos de America,Newport,+41° 28´ 55´´ (N),-071° 18´ 52´´ (W),1992-07-11,212,Estados Unidos de America,Boston,+42° 21´ 00´´ (N),-071° 04´ 59´´ (W),1,5,202
+1992,1992-07-16,212,Estados Unidos de America,Boston,+42° 21´ 00´´ (N),-071° 04´ 59´´ (W),1992-08-09,426,Reino Unido de Gran Bretania e Irlanda ,Liverpool,+53° 24´ 35´´ (N),-002° 59´ 32´´ (W),24,7,3430
+1992,1992-08-16,426,Reino Unido de Gran Bretania e Irlanda del Norte,Liverpool,+53° 24´ 35´´ (N),-002° 59´ 32´´ (W),1992-08-17,415,Republica de Irlanda,Dublin,+53° 20´ 36´´ (N),-006° 13´ 35´´ (W),1,3,124
+1992,1992-08-20,415,Republica de Irlanda,Dublin,+53° 20´ 36´´ (N),-006° 13´ 35´´ (W),1992-08-24,438,Republica Federal de Alemania,Bremerhaven,+53° 32´ 34´´ (N),+008° 34´ 31´´ (E),4,7,894
+1992,1992-08-31,438,Republica Federal de Alemania,Bremerhaven,+53° 32´ 34´´ (N),+008° 34´ 31´´ (E),1992-09-02,423,Paises Bajos,Amsterdam,+52° 22´ 31´´ (N),+004° 54´ 14´´ (E),2,6,271
+1992,1992-09-08,423,Paises Bajos,Amsterdam,+52° 22´ 31´´ (N),+004° 54´ 14´´ (E),1992-09-14,412,Republica Francesa,Brest,+48° 23´ 12´´ (N),-004° 29´ 26´´ (W),6,7,613
+1992,1992-09-21,412,Republica Francesa,Brest,+48° 23´ 12´´ (N),-004° 29´ 26´´ (W),1992-09-30,410,Reino de Espania,Las Palmas de Gran Canaria,+28° 07´ 43´´ (N),-015° 25´ 49´´ (W),9,5,1420
+1992,1992-10-05,410,Reino de Espania,Las Palmas de Gran Canaria,+28° 07´ 43´´ (N),-015° 25´ 49´´ (W),1992-10-29,203,Republica Federativa de Brasil,Rio de Janeiro,-22° 54´ 00´´ (S),-043° 12´ 00´´ (W),24,6,3663
+1992,1992-11-04,203,Republica Federativa de Brasil,Rio de Janeiro,-22° 54´ 00´´ (S),-043° 12´ 00´´ (W),1992-11-14,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),10,,1161
+1993,1993-06-16,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),1993-06-29,203,Republica Federativa de Brasil,Fortaleza,-03° 43´ 51´´ (S),-038° 36´ 51´´ (W),13,4,2688
+1993,1993-07-03,203,Republica Federativa de Brasil,Fortaleza,-03° 43´ 51´´ (S),-038° 36´ 51´´ (W),1993-07-14,223,Estado Libre Asociado de Puerto Rico,Municipio Autonomo de San Juan,+18° 27´ 27´´ (N),-066° 12´ 32´´ (W),11,5,2217
+1993,1993-07-19,223,Estado Libre Asociado de Puerto Rico,Municipio Autonomo de San Juan,+18° 27´ 27´´ (N),-066° 12´ 32´´ (W),1993-07-26,212,Estados Unidos de America,Baltimore,+39° 16´ 52´´ (N),-076° 35´ 44´´ (W),7,7,1391
+1993,1993-08-02,212,Estados Unidos de America,Baltimore,+39° 16´ 52´´ (N),-076° 35´ 44´´ (W),1993-08-18,415,Republica de Irlanda,Dublin,+53° 20´ 36´´ (N),-006° 13´ 35´´ (W),16,4,3389
+1993,1993-08-22,415,Republica de Irlanda,Dublin,+53° 20´ 36´´ (N),-006° 13´ 35´´ (W),1993-08-27,438,Republica Federal de Alemania,Hamburgo,+53° 32´ 51´´ (N),+009° 58´ 09´´ (E),5,5,922
+1993,1993-09-01,438,Republica Federal de Alemania,Hamburgo,+53° 32´ 51´´ (N),+009° 58´ 09´´ (E),1993-09-04,406,Reino de Belgica,Amberes,+51° 12´ 08´´ (N),+004° 22´58´´ (E),3,5,437
+1993,1993-09-09,406,Reino de Belgica,Amberes,+51° 12´ 08´´ (N),+004° 22´58´´ (E),1993-09-10,412,Republica Francesa,Boulogne Sur Mer,+50° 43´ 48´´ (N),+001° 35´ 37´´ (E),1,6,168
+1993,1993-09-16,412,Republica Francesa,Boulogne Sur Mer,+50° 43´ 48´´ (N),+001° 35´ 37´´ (E),1993-09-23,410,Reino de Espania,Cadiz,+36° 31´ 21´´ (N),-006° 16´ 53´´ (W),7,6,1255
+1993,1993-09-29,410,Reino de Espania,Cadiz,+36° 31´ 21´´ (N),-006° 16´ 53´´ (W),1993-10-03,410,Reino de Espania,Las Palmas de Gran Canaria,+28° 07´ 43´´ (N),-015° 25´ 49´´ (W),4,4,770
+1993,1993-10-07,410,Reino de Espania,Las Palmas de Gran Canaria,+28° 07´ 43´´ (N),-015° 25´ 49´´ (W),1993-10-17,110,Republica de Costa de Marfil,Abidjan,+05° 15´ 22´´ (N),-003° 58´ 40´´ (W),10,3,2105
+1993,1993-10-20,110,Republica de Costa de Marfil,Abidjan,+05° 15´ 22´´ (N),-003° 58´ 40´´ (W),1993-11-04,159,Republica de Sudafrica,Saldanha,-33° 10´ 00´´ (S),+17° 59´ 29´´ (E),15,3,2734
+1993,1993-11-07,159,Republica de Sudafrica,Saldanha,-33° 10´ 00´´ (S),+17° 59´ 29´´ (E),1993-11-08,159,Republica de Sudafrica,Ciudad del Cabo,-33° 56´ 44´´ (S),+18° 25´ 51´´ (E),1,7,108
+1993,1993-11-15,159,Republica de Sudafrica,Ciudad del Cabo,-33° 56´ 44´´ (S),+18° 25´ 51´´ (E),1993-11-30,203,Republica Federativa de Brasil,Salvador de Bahia ,-12° 58´ 16´´ (S),-038° 30´ 05´´ (W),15,5,3486
+1993,1993-12-05,203,Republica Federativa de Brasil,Salvador de Bahia ,-12° 58´ 16´´ (S),-038° 30´ 05´´ (W),1993-12-13,225,Republica Oriental del Uruguay,Montevideo,-34° 54´ 24´´ (S),-056° 11´ 45´´ (W),8,3,1794
+1993,1993-12-16,225,Republica Oriental del Uruguay,Montevideo,-34° 54´ 24´´ (S),-056° 11´ 45´´ (W),1993-12-18,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),2,,131
+1994,1994-06-06,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),1994-06-23,203,Republica Federativa de Brasil,Recife ,-08° 02´ 01´´ (S),-034° 52´ 29´´ (W),17,4,2281
+1994,1994-06-27,203,Republica Federativa de Brasil,Recife ,-08° 02´ 01´´ (S),-034° 52´ 29´´ (W),1994-07-06,201,Barbados,Bridgetown,+13° 04´ 59´´ (N),-059° 36´ 00´´ (W),9,6,2070
+1994,1994-07-12,201,Barbados,Bridgetown,+13° 04´ 59´´ (N),-059° 36´ 00´´ (W),1994-07-17,663,Bermudas,Hamilton,+32° 16´ 59´´ (N),-064° 46´ 00´´ (W),5,5,1216
+1994,1994-07-22,663,Bermudas,Hamilton,+32° 16´ 59´´ (N),-064° 46´ 00´´ (W),1994-07-26,212,Estados Unidos de America,Baltimore,+39° 16´ 52´´ (N),-076° 35´ 44´´ (W),4,5,802
+1994,1994-07-31,212,Estados Unidos de America,Baltimore,+39° 16´ 52´´ (N),-076° 35´ 44´´ (W),1994-08-04,212,Estados Unidos de America,Boston ,+42° 21´ 00´´ (N),-071° 04´ 59´´ (W),4,5,720
+1994,1994-08-09,212,Estados Unidos de America,Boston ,+42° 21´ 00´´ (N),-071° 04´ 59´´ (W),1994-08-23,426,Reino Unido de Gran Bretania e Irlanda del Norte,Dartmouth,+50° 21´ 16´´ (N),-003° 34´ 33´´ (W),14,5,2955
+1994,1994-08-28,426,Reino Unido de Gran Bretania e Irlanda del Norte,Dartmouth,+50° 21´ 16´´ (N),-003° 34´ 33´´ (W),1994-09-01,425,Republica Portuguesa,Lisboa ,+38° 42´ 52´´ (N),-009° 09´ 40´´ (W),4,6,836
+1994,1994-09-07,425,Republica Portuguesa,Lisboa ,+38° 42´ 52´´ (N),-009° 09´ 40´´ (W),1994-09-09,410,Reino de Espania,Malaga,+36° 42´ 38´´ (N),-004° 25´ 29´´ (W),2,6,390
+1994,1994-09-15,410,Reino de Espania,Malaga,+36° 42´ 38´´ (N),-004° 25´ 29´´ (W),1994-09-19,412,Republica Francesa,Toulon,+43° 07´ 00´´ (N),+005° 56´ 00´´ (E),4,7,690
+1994,1994-09-26,412,Republica Francesa,Toulon,+43° 07´ 00´´ (N),+005° 56´ 00´´ (E),1994-09-28,417,Republica Italiana,Napoles,+40° 50´ 35´´ (N),+014° 15´ 36´´ (E),2,5,415
+1994,1994-10-03,417,Republica Italiana,Napoles,+40° 50´ 35´´ (N),+014° 15´ 36´´ (E),1994-10-07,413,Republica Helenica,El Pireo,+37° 57´ 00´´ (N),+011° 47´ 14´´ (E),4,6,710
+1994,1994-10-13,413,Republica Helenica,El Pireo,+37° 57´ 00´´ (N),+011° 47´ 14´´ (E),1994-10-14,413,Republica Helenica,Herakleion,+35° 19´ 59´´ (N),+025° 09´ 00´´ (E),1,3,176
+1994,1994-10-17,413,Republica Helenica,Herakleion,+35° 19´ 59´´ (N),+025° 09´ 00´´ (E),1994-10-20,141,Republica de Tunez,La Goulette,+36° 48´ 36´´ (N),+010° 18´ 27´´ (E),3,4,738
+1994,1994-10-24,141,Republica de Tunez,La Goulette,+36° 48´ 36´´ (N),+010° 18´ 27´´ (E),1994-10-31,410,Reino de Espania,Santa Cruz de Tenerife,+28 29´ 02´´ (N),-016° 14´ 55´´ (W),7,8,1546
+1994,1994-11-08,410,Reino de Espania,Santa Cruz de Tenerife,+28° 29´ 02´´ (N),-016° 14´ 55´´ (W),1994-11-24,203,Republica Federativa de Brasil,Rio de Janeiro,-22° 54´ 00´´ (S),-043° 12´ 00´´ (W),16,6,3597
+1994,1994-11-30,203,Republica Federativa de Brasil,Rio de Janeiro,-22° 54´ 00´´ (S),-043° 12´ 00´´ (W),1994-12-05,225,Republica Oriental del Uruguay,Montevideo,-34° 54´ 24´´ (S),-056° 11´ 45´´ (W),5,3,1038
+1994,1994-12-08,225,Republica Oriental del Uruguay,Montevideo,-34° 54´ 24´´ (S),-056° 11´ 45´´ (W),1994-12-10,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),2,,240
+1995,1995-06-30,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),1995-07-13,203,Republica Federativa de Brasil,Fortaleza,-03° 43´ 51´´ (S),-038° 36´ 51´´ (W),13,4,2652
+1995,1995-07-17,203,Republica Federativa de Brasil,Fortaleza,-03° 43´ 51´´ (S),-038° 36´ 51´´ (W),1995-07-28,209,Republica Dominicana,Santo Domingo,+18° 28´ 17´´ (N),-069° 52´ 29´´ (W),11,4,2372
+1995,1995-08-01,209,Republica Dominicana,Santo Domingo,+18° 28´ 17´´ (N),-069° 52´ 29´´ (W),1995-08-08,212,Estados Unidos de America,Nueva York,+40° 42´ 19´´ (N),-074° 01´ 03´´ (W),7,7,1521
+1995,1995-08-15,212,Estados Unidos de America,Nueva York,+40° 42´ 19´´ (N),-074° 01´ 03´´ (W),1995-08-18,204,Canada,Halifax,+44° 37´ 32´´ (N),-063° 34´ 25´´ (W),3,6,651
+1995,1995-08-24,204,Canada,Halifax,+44° 37´ 32´´ (N),-063° 34´ 25´´ (W),1995-09-07,426,Reino Unido de Gran Bretania e Irlanda del Norte,Londres,+51° 30´ 27´´ (N),-000° 07´ 20´´ (W),14,8,2865
+1995,1995-09-15,426,Reino Unido de Gran Bretania e Irlanda del Norte,Londres,+51° 30´ 27´´ (N),-000° 07´ 20´´ (W),1995-09-18,412,Republica Francesa,Cherburgo,+49° 38´ 20´´ (N),-001° 37´ 30´´ (W),3,8,258
+1995,1995-09-26,412,Republica Francesa,Cherburgo,+49° 38´ 20´´ (N),-001° 37´ 30´´ (W),1995-09-29,410,Reino de Espania,La Corunia,+43° 28´ 08´´ (N),-008° 16´ 00´´ (W),3,8,543
+1995,1995-10-07,410,Reino de Espania,La Corunia,+43° 28´ 08´´ (N),-008° 16´ 00´´ (W),1995-10-11,410,Reino de Espania,Santa Cruz de Tenerife,+28° 29´ 02´´ (N),-016° 14´ 55´´ (W),4,5,1031
+1995,1995-10-16,410,Reino de Espania,Santa Cruz de Tenerife,+28° 29´ 02´´ (N),-016° 14´ 55´´ (W),1995-10-30,203,Republica Federativa de Brasil,Salvador de Bahia,-12° 58´ 16´´ (S),-038° 30´ 05´´ (W),14,5,2897
+1995,1995-11-04,203,Republica Federativa de Brasil,Salvador de Bahia,-12° 58´ 16´´ (S),-038° 30´ 05´´ (W),1995-11-13,225,Republica Oriental del Uruguay,Montevideo,-34° 54´ 24´´ (S),-056° 11´ 45´´ (W),9,3,1795
+1995,1995-11-16,225,Republica Oriental del Uruguay,Montevideo,-34° 54´ 24´´ (S),-056° 11´ 45´´ (W),1995-11-18,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),2,,125
+1997,1997-01-14,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),1997-01-29,208,Republica de Chile,Valparaiso,-33° 03´ 01´´ (S),-071° 38´ 20´´ (W),15,4,2895
+1997,1997-02-02,208,Republica de Chile,Valparaiso,-33° 03´ 01´´ (S),-071° 38´ 20´´ (W),1997-02-09,222,Republica de Peru,El Callao,-12° 03´ 13´´ (S),-077° 07´ 16´´ (W),7,4,1327
+1997,1997-02-13,222,Republica de Peru,El Callao,-12° 03´ 13´´ (S),-077° 07´ 16´´ (W),1997-02-24,218,Estados Unidos Mexicanos,Acapulco,+16° 50´ 54´´ (N),-099° 55´ 04´´ (W),11,4,2242
+1997,1997-02-28,218,Estados Unidos Mexicanos,Acapulco,+16° 50´ 54´´ (N),-099° 55´ 04´´ (W),1997-03-10,212,Estados Unidos de America,San Francisco,+37° 48´ 29´´ (N),-122° 24´ 36´´ (W),10,5,1917
+1997,1997-03-15,212,Estados Unidos de America,San Francisco,+37° 48´ 29´´ (N),-122° 24´ 36´´ (W),1997-03-25,212,Estados Unidos de America,Pearl Harbor,+21° 17´ 55´´ (N),-157° 51´ 58´´ (W),10,5,2105
+1997,1997-03-30,212,Estados Unidos de America,Pearl Harbor,+21° 17´ 55´´ (N),-157° 51´ 58´´ (W),1997-04-18,320,Estado de Japon,Kagoshima,+31° 33´ 45´´ (N),+130° 33´ 21´´ (E),19,3,3970
+1997,1997-04-21,320,Estado de Japon,Kagoshima,+31° 33´ 45´´ (N),+130° 33´ 21´´ (E),1997-04-27,320,Estado de Japon,Osaka,+34° 39´ 00´´ (N),+135° 26´ 59´´ (E),6,8,741
+1997,1997-05-05,320,Estado de Japon,Osaka,+34° 39´ 00´´ (N),+135° 26´ 59´´ (E),1997-05-13,312,Republica de Filipinas,Manila,+14° 37´ 52´´ (N),+120° 58´ 19´´ (E),8,3,1628
+1997,1997-05-16,312,Republica de Filipinas,Manila,+14° 37´ 52´´ (N),+120° 58´ 19´´ (E),1997-05-23,316,Republica de Indonesia,Yakarta,-06° 07´ 13´´ (S),+106° 49´ 27´´ (E),7,4,1591
+1997,1997-05-27,316,Republica de Indonesia,Yakarta,-06° 07´ 13´´ (S),+106° 49´ 27´´ (E),1997-05-30,333,Republica de Singapur,Pulau Brani,+01° 14´ 21´´ (N),+103° 49´ 56´´ (E),3,3,578
+1997,1997-06-02,333,Republica de Singapur,Pulau Brani,+01° 14´ 21´´ (N),+103° 49´ 56´´ (E),1997-06-03,326,Malasia,Port Klang,+03° 00´ 12´´ (N),+101° 22´ 57´´ (E),1,3,224
+1997,1997-06-06,326,Malasia,Port Klang,+03° 00´ 12´´ (N),+101° 22´ 57´´ (E),1997-06-18,315,Republica de la India,Bombay,+18° 56´ 04´´ (N),+072° 49´ 32´´ (E),12,3,2288
+1997,1997-06-21,315,Republica de la India,Bombay,+18° 56´ 04´´ (N),+072° 49´ 32´´ (E),1997-06-30,328,Sultania de Oman,Mina Raysut,+16° 59´ 55´´ (N),+054° 05´ 59´´ (E),9,1,1155
+1997,1997-07-01,328,Sultania de Oman,Mina Raysut,+16° 59´ 55´´ (N),+054° 05´ 59´´ (E),1997-07-07,302,Reino de Arabia Saudita,Jeddah,+21° 29´ 32´´ (N),+039° 11´ 19´´ (E),6,2,1325
+1997,1997-07-09,302,Reino de Arabia Saudita,Jeddah,+21° 29´ 32´´ (N),+039° 11´ 19´´ (E),1997-07-17,436,Republica de Turquia,Estambul,+41° 00´ 24´´ (N),+028° 58´ 23´´ (E),8,4,1556
+1997,1997-07-21,436,Republica de Turquia,Estambul,+41° 00´ 24´´ (N),+028° 58´ 23´´ (E),1997-07-23,413,Republica Helenica,El Pireo,+37° 57´ 00´´ (N),+011° 47´ 14´´ (E),2,5,364
+1997,1997-07-28,413,Republica Helenica,El Pireo,+37° 57´ 00´´ (N),+011° 47´ 14´´ (E),1997-07-31,417,Republica Italiana,Palermo,+38° 07´ 34´´ (N),+013° 21´ 33´´ (E),3,3,624
+1997,1997-08-03,417,Republica Italiana,Palermo,+38° 07´ 34´´ (N),+013° 21´ 33´´ (E),1997-08-05,417,Republica Italiana,Genova,+44° 24´ 52´´ (N),+008° 54´ 54´´ (E),2,8,434
+1997,1997-08-13,417,Republica Italiana,Genova,+44° 24´ 52´´ (N),+008° 54´ 54´´ (E),1997-08-16,421,Principado de Monaco,Monaco,+43° 43´ 59´´ (N),+007° 27´ 00´´ (E),3,2,126
+1997,1997-08-18,421,Principado de Monaco,Monaco,+43° 43´ 59´´ (N),+007° 27´ 00´´ (E),1997-08-20,410,Espania,Barcelona,+41° 21´ 00´´ (N),+002° 10´ 00´´ (E),2,6,293
+1997,1997-08-26,410,Reino de Espania,Barcelona,+41° 21´ 00´´ (N),+002° 10´ 00´´ (E),1997-09-01,410,Espania,Las Palmas de Gran Canaria,+28° 07´ 43´´ (N),-015° 25´ 49´´ (W),6,4,1244
+1997,1997-09-05,410,Reino de Espania,Las Palmas de Gran Canaria,+28° 07´ 43´´ (N),-015° 25´ 49´´ (W),1997-09-17,203,Republica Federativa de Brasil,Recife,-08° 02´ 01´´ (S),-034° 52´ 29´´ (W),12,3,2475
+1997,1997-09-20,203,Republica Federativa de Brasil,Recife,-08° 02´ 01´´ (S),-034° 52´ 29´´ (W),1997-10-04,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),14,,2256
+1998,1998-05-26,200,Republica Argentina ,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),1998-06-08,203,Republica Federativa de Brasil,Fortaleza,-03° 43´ 51´´ (S),-038° 36´ 51´´ (W),13,4,2649
+1998,1998-06-12,203,Republica Federativa de Brasil,Fortaleza,-03° 43´ 51´´ (S),-038° 36´ 51´´ (W),1998-06-23,223,Estado Libre Asociado de Puerto Rico,Municipio Autonomo de San Juan,+18° 27´ 27´´ (N),-066° 12´ 32´´ (W),11,4,2268
+1998,1998-06-27,223,Estado Libre Asociado de Puerto Rico,Municipio Autonomo de San Juan,+18° 27´ 27´´ (N),-066° 12´ 32´´ (W),1998-07-03,212,Estados Unidos de America,Savannah,+32° 05´ 11´´ (N),-081° 05´ 59´´ (W),6,3,1195
+1998,1998-07-06,212,Estados Unidos de America,Savannah,+32° 05´ 11´´ (N),-081° 05´ 59´´ (W),1998-07-11,212,Estados Unidos de America,Glen Cove,+40° 42´ 19´´ (N),-074° 01´ 03´´ (W),5,6,912
+1998,1998-07-17,212,Estados Unidos de America,Glen Cove,+40° 42´ 19´´ (N),-074° 01´ 03´´ (W),1998-07-19,212,Estados Unidos de America,Boston,+42° 21´ 00´´ (N),-071° 04´ 59´´ (W),2,7,397
+1998,1998-07-26,212,Estados Unidos de America,Boston,+42° 21´ 00´´ (N),-071° 04´ 59´´ (W),1998-07-29,204,Canada,Halifax,+44° 37´ 32´´ (N),-063° 34´ 25´´ (W),3,5,393
+1998,1998-08-03,204,Canada,Halifax,+44° 37´ 32´´ (N),-063° 34´ 25´´ (W),1998-08-19,415,Republica de Irlanda,Dublin,+53° 20´ 36´´ (N),-006° 13´ 35´´ (W),16,6,2614
+1998,1998-08-25,415,Republica de Irlanda,Dublin,+53° 20´ 36´´ (N),-006° 13´ 35´´ (W),1998-08-27,426,Reino Unido de Gran Bretania e Irlanda del Norte,Portsmouth,+50° 53´ 38´´ (N),-001° 22´ 31´´ (W),2,5,444
+1998,1998-09-01,426,Reino Unido de Gran Bretania e Irlanda del Norte,Portsmouth,+50° 53´ 38´´ (N),-001° 22´ 31´´ (W),1998-09-04,438,Republica Federal de Alemania,Hamburgo,+53° 32´ 51´´ (N),+009° 58´ 09´´ (E),3,6,494
+1998,1998-09-10,438,Republica Federal de Alemania,Hamburgo,+53° 32´ 51´´ (N),+009° 58´ 09´´ (E),1998-09-14,412,Republica Francesa,Brest,+48° 23´ 12´´ (N),-004° 29´ 26´´ (W),4,7,771
+1998,1998-09-21,412,Republica Francesa,Brest,+48° 23´ 12´´ (N),-004° 29´ 26´´ (W),1998-09-25,425,Republica Portuguesa,Lisboa,+38° 42´ 52´´ (N),-009° 09´ 40´´ (W),4,5,
+1998,1998-09-30,425,Republica Portuguesa,Lisboa,+38° 42´ 52´´ (N),-009° 09´ 40´´ (W),1998-10-04,410,Reino de Espania,Las Palmas de Gran Canaria,+28° 07´ 43´´ (N),-015° 25´ 49´´ (W),4,3,729
+1998,1998-10-07,410,Reino de Espania,Las Palmas de Gran Canaria,+28° 07´ 43´´ (N),-015° 25´ 49´´ (W),1998-10-21,203,Republica Federativa de Brasil,Salvador de Bahia ,-12° 58´ 16´´ (S),-038° 30´ 05´´ (W),14,4,2902
+1998,1998-10-25,203,Republica Federativa de Brasil,Salvador de Bahia ,-12° 58´ 16´´ (S),-038° 30´ 05´´ (W),1998-11-03,225,Republica Oriental de Uruguay,Montevideo,-34° 54´ 24´´ (S),-056° 11´ 45´´ (W),9,2,1779
+1998,1998-11-05,225,Republica Oriental del Uruguay,Montevideo,-34° 54´ 24´´ (S),-056° 11´ 45´´ (W),1998-11-07,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),2,,130
+1999,1999-05-29,200,Republica Argentina ,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),1999-06-04,203,Republica Federativa de Brasil,Rio de Janeiro,-22° 54´ 00´´ (S),-043° 12´ 00´´ (W),6,4,1208
+1999,1999-06-08,203,Republica Federativa de Brasil,Rio de Janeiro,-22° 54´ 00´´ (S),-043° 12´ 00´´ (W),1999-06-26,410,Reino de Espania,Santa Cruz de Tenerife,+28 29´ 02´´ (N),-016° 14´ 55´´ (W),18,5,3586
+1999,1999-07-01,410,Reino de Espania,Santa Cruz de Tenerife,+28° 29´ 02´´ (N),-016° 14´ 55´´ (W),1999-07-09,412,Republica Francesa,Rouen,+49° 26´ 12´´ (N),+001° 03´ 24´´ (E),8,7,1621
+1999,1999-07-16,412,Republica Francesa,Rouen,+49° 26´ 12´´ (N),+001° 03´ 24´´ (E),1999-07-18,406,Reino de Belgica,Zeebgrugee ,+51° 20´ 13´´ (N),+003° 13´ 02´´ (E),2,3,271
+1999,1999-07-21,406,Reino de Belgica,Zeebgrugee ,+51° 20´ 13´´ (N),+003° 13´ 02´´ (E),1999-07-23,426,Reino Unido de Gran Bretania e Irlanda del Norte,Londres,+51° 30´ 27´´ (N),-000° 07´ 20´´ (W),2,6,152
+1999,1999-07-29,426,Reino Unido de Gran Bretania e Irlanda del Norte,Londres,+51° 30´ 27´´ (N),-000° 07´ 20´´ (W),1999-08-02,410,Reino de Espania,El Ferrol,+43° 28´ 08´´ (N),-008° 16´ 00´´ (W),4,6,785
+1999,1999-08-08,410,Reino de Espania,El Ferrol,+43° 28´ 08´´ (N),-008° 16´ 00´´ (W),1999-08-24,212,Estados Unidos de America,New York,+40° 42´ 19´´ (N),-074° 01´ 03´´ (W),16,11,2999
+1999,1999-09-04,212,Estados Unidos de America,New York,+40° 42´ 19´´ (N),-074° 01´ 03´´ (W),1999-09-10,212,Estados Unidos de America,Miami,+25° 46´ 33´´ (N),-080° 11´ 22´´ (W),6,3,1091
+1999,1999-09-13,212,Estados Unidos de America,Miami,+25° 46´ 33´´ (N),-080° 11´ 22´´ (W),1999-09-21,205,Republica de Colombia,Cartagena de Indias,+10° 24´ 09´´ (N),-075° 31´ 12´´ (W),8,7,1385
+1999,1999-09-28,205,Republica de Colombia,Cartagena de Indias,+10° 24´ 09´´ (N),-075° 31´ 12´´ (W),1999-09-30,222,Republica de Peru,El Callao,-12° 03´ 13´´ (S),-077° 07´ 16´´ (W),2,10,1702
+1999,1999-10-10,222,Republica de Peru,El Callao,-12° 03´ 13´´ (S),-077° 07´ 16´´ (W),1999-10-17,208,Republica de Chile,Valparaiso,-33° 03´ 01´´ (S),-071° 38´ 20´´ (W),7,4,1318
+1999,1999-10-21,208,Republica de Chile,Valparaiso,-33° 03´ 01´´ (S),-071° 38´ 20´´ (W),1999-10-30,200,Republica Argentina ,Ushuaia,-54° 47´ 17´´ (S),-068° 17´ 40´´ (W),9,3,1846
+1999,1999-11-02,200,Republica Argentina ,Ushuaia,-54° 47´ 17´´ (S),-068° 17´ 40´´ (W),1999-11-06,200,Republica Argentina ,Puerto Madryn,-42° 44´ 36´´ (S),-065° 03´ 19´´ (W),4,2,915
+1999,1999-11-08,200,Republica Argentina ,Puerto Madryn,-42° 44´ 36´´ (S),-065° 03´ 19´´ (W),1999-11-13,200,Republica Argentina ,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),5,,868
+2000,2000-05-06,200,Republica Argentina ,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),2000-05-22,203,Republica Federativa de Brasil,Fortaleza,-03° 43´ 51´´ (S),-038° 36´ 51´´ (W),16,3,3073
+2000,2000-05-25,203,Republica Federativa de Brasil,Fortaleza,-03° 43´ 51´´ (S),-038° 36´ 51´´ (W),2000-06-08,663,Bermudas,Hamilton,+32° 16´ 59´´ (N),-064° 46´ 00´´ (W),14,4,2845
+2000,2000-06-12,663,Bermudas,Hamilton,+32° 16´ 59´´ (N),-064° 46´ 00´´ (W),2000-06-16,212,Estados Unidos de America,Charleston,+32° 46´ 34´´ (N),-079° 55´ 41´´ (W),4,4,815
+2000,2000-06-20,212,Estados Unidos de America,Charleston,+32° 46´ 34´´ (N),-079° 55´ 41´´ (W),2000-06-23,212,Estados Unidos de America,Philadelphia,+39° 53´ 07´´ (N),-075° 11´ 18´´ (W),3,8,600
+2000,2000-07-01,212,Estados Unidos de America,Philadelphia,+39° 53´ 07´´ (N),-075° 11´ 18´´ (W),2000-07-04,212,Estados Unidos de America,New York,+40° 42´ 19´´ (N),-074° 01´ 03´´ (W),3,6,252
+2000,2000-07-10,212,Estados Unidos de America,New York,+40° 42´ 19´´ (N),-074° 01´ 03´´ (W),2000-07-12,212,Estados Unidos de America,New London,+41° 19´ 59´´ (N),-071° 55´ 00´´ (W),2,3,165
+2000,2000-07-15,212,Estados Unidos de America,New London,+41° 19´ 59´´ (N),-071° 55´ 00´´ (W),2000-07-18,212,Estados Unidos de America,Shelburne,+43° 03´ 41´´ (N),-070° 43´ 04´´ (W),3,0,520
+2000,2000-07-18,212,Estados Unidos de America,Shelburne,+43° 03´ 41´´ (N),-070° 43´ 04´´ (W),2000-07-19,204,Canada,Halifax,+44° 37´ 32´´ (N),-063° 34´ 25´´ (W),1,4,124
+2000,2000-07-23,204,Canada,Halifax,+44° 37´ 32´´ (N),-063° 34´ 25´´ (W),2000-07-25,212,Estados Unidos de America,Portland,+43° 39´ 53´´ (N),-070° 14´ 44´´ (W),2,4,351
+2000,2000-07-29,212,Estados Unidos de America,Portland,+43° 39´ 53´´ (N),-070° 14´ 44´´ (W),2000-08-16,412,Republica Francesa,Boulogne Sur Mer,+50° 43´ 48´´ (N),+001° 35´ 37´´ (E),18,7,3118
+2000,2000-08-23,412,Republica Francesa,Boulogne Sur Mer,+50° 43´ 48´´ (N),+001° 35´ 37´´ (E),2000-08-24,423,Paises Bajos,Amsterdam,+52° 22´ 31´´ (N),+004° 54´ 14´´ (E),1,4,185
+2000,2000-08-28,423,Paises Bajos,Amsterdam,+52° 22´ 31´´ (N),+004° 54´ 14´´ (E),2000-08-30,438,Republica Federal de Alemania,Bremerhaven,+53° 32´ 34´´ (N),+008° 34´ 31´´ (E),2,4,220
+2000,2000-09-03,438,Republica Federal de Alemania,Bremerhaven,+53° 32´ 34´´ (N),+008° 34´ 31´´ (E),2000-09-06,426,Reino Unido de Gran Bretania e Irlanda del Norte,Southampton,+50° 53´ 38´´ (N),-001° 22´ 31´´ (W),3,5,492
+2000,2000-09-11,426,Reino Unido de Gran Bretania e Irlanda del Norte,Southampton,+50° 53´ 38´´ (N),-001° 22´ 31´´ (W),2000-09-16,425,Republica Portuguesa,Lisboa,+38° 42´ 52´´ (N),-009° 09´ 40´´ (W),5,5,941
+2000,2000-09-21,425,Republica Portuguesa,Lisboa,+38° 42´ 52´´ (N),-009° 09´ 40´´ (W),2000-09-24,425,Republica Portuguesa,Funchal ,+32° 38´ 52´´ (N),-016° 54´ 38´´ (W),3,4,536
+2000,2000-09-28,425,Republica Portuguesa,Funchal ,+32° 38´ 52´´ (N),-016° 54´ 38´´ (W),2000-10-13,203,Republica Federativa de Brasil,Recife,-08° 02´ 01´´ (S),-034° 52´ 29´´ (W),15,1,2765
+2000,2000-10-14,203,Republica Federativa de Brasil,Recife,-08° 02´ 01´´ (S),-034° 52´ 29´´ (W),2000-10-20,203,Republica Federativa de Brasil,Rio de Janeiro,-22° 54´ 00´´ (S),-043° 12´ 00´´ (W),6,6,1079
+2000,2000-10-26,203,Republica Federativa de Brasil,Rio de Janeiro,-22° 54´ 00´´ (S),-043° 12´ 00´´ (W),2000-11-04,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),9,,1159
+2001,2001-06-02,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),2001-06-11,203,Republica Federativa de Brasil,Rio de Janeiro,-22° 54´ 00´´ (S),-043° 12´ 00´´ (W),9,4,1184
+2001,2001-06-15,203,Republica Federativa de Brasil,Rio de Janeiro,-22° 54´ 00´´ (S),-043° 12´ 00´´ (W),2001-06-26,226,Republica Bolivariana de Venezuela,La Guaira,+10° 36´ 00´´ (N),-066° 55´ 59´´ (W),11,14,3662
+2001,2001-07-10,226,Republica Bolivariana de Venezuela,La Guaira,+10° 36´ 00´´ (N),-066° 55´ 59´´ (W),2001-07-13,209,Republica Dominicana,Santo Domingo,+18° 28´ 17´´ (N),-069° 52´ 29´´ (W),3,4,528
+2001,2001-07-17,209,Republica Dominicana,Santo Domingo,+18° 28´ 17´´ (N),-069° 52´ 29´´ (W),2001-07-27,212,Estados Unidos de America,Baltimore,+39° 16´ 52´´ (N),-076° 35´ 44´´ (W),10,6,1509
+2001,2001-08-02,212,Estados Unidos de America,Baltimore,+39° 16´ 52´´ (N),-076° 35´ 44´´ (W),2001-08-08,212,Estados Unidos de America,Boston,+42° 21´ 00´´ (N),-071° 04´ 59´´ (W),6,5,723
+2001,2001-08-13,212,Estados Unidos de America,Boston,+42° 21´ 00´´ (N),-071° 04´ 59´´ (W),2001-08-31,425,Republica Portuguesa,Funchal ,+32° 38´ 52´´ (N),-016° 54´ 38´´ (W),18,3,2824
+2001,2001-09-03,425,Republica Portuguesa,Funchal ,+32° 38´ 52´´ (N),-016° 54´ 38´´ (W),2001-09-11,410,Reino de Espania,Barcelona,+41 21´ 00´´ (N),+002° 10´ 00´´ (E),8,6,1211
+2001,2001-09-17,410,Reino de Espania,Barcelona,+41° 21´ 00´´ (N),+002° 10´ 00´´ (E),2001-09-18,412,Republica Francesa,Marsella,+43° 17´ 32´´ (N),+005° 21´ 18´´ (E),1,6,185
+2001,2001-09-24,412,Republica Francesa,Marsella,+43° 17´ 32´´ (N),+005° 21´ 18´´ (E),2001-09-26,417,Republica Italiana,La Spezia,+44° 05´ 53´´ (N),+009° 49´ 18´´ (E),2,8,291
+2001,2001-10-04,417,Republica Italiana,La Spezia,+44° 05´ 53´´ (N),+009° 49´ 18´´ (E),2001-10-17,410,Reino de Espania,Santa Cruz de Tenerife,+28 29´ 02´´ (N),-016° 14´ 55´´ (W),13,5,1853
+2001,2001-10-22,410,Reino de Espania,Santa Cruz de Tenerife,+28° 29´ 02´´ (N),-016° 14´ 55´´ (W),2001-11-12,203,Republica Federativa de Brasil,Santos,-23° 58´ 25´´ (S),-046° 19´ 14´´ (W),21,4,4077
+2001,2001-11-16,203,Republica Federativa de Brasil,Santos,-23° 58´ 25´´ (S),-046° 19´ 14´´ (W),2001-11-24,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),8,,1028
+2002,2002-05-22,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),2002-05-29,203,Republica Federativa de Brasil,Salvador Bahia,-12° 58´ 16´´ (S),-038° 30´ 05´´ (W),7,4,1900
+2002,2002-06-02,203,Republica Federativa de Brasil,Salvador Bahia,-12° 58´ 16´´ (S),-038° 30´ 05´´ (W),2002-06-18,223,Estado Libre Asociado de Puerto Rico,Municipio Autonomo de San Juan,+18° 27´ 27´´ (N),-066° 12´ 32´´ (W),16,8,3088
+2002,2002-06-26,223,Estado Libre Asociado de Puerto Rico,Municipio Autonomo de San Juan,+18° 27´ 27´´ (N),-066° 12´ 32´´ (W),2002-07-01,212,Estados Unidos de America,New York,+40° 42´ 19´´ (N),-074° 01´ 03´´ (W),5,5,1429
+2002,2002-07-06,212,Estados Unidos de America,New York,+40° 42´ 19´´ (N),-074° 01´ 03´´ (W),2002-07-24,412,Republica Francesa,Brest,+48° 23´ 12´´ (N),-004° 29´ 26´´ (W),18,8,6152
+2002,2002-08-01,412,Republica Francesa,Brest,+48° 23´ 12´´ (N),-004° 29´ 26´´ (W),2002-08-04,426,Reino Unido de Gran Bretania e Irlanda del Norte,Londres,+51° 30´ 27´´ (N),-000° 07´ 20´´ (W),3,6,512
+2002,2002-08-10,426,Reino Unido de Gran Bretania e Irlanda del Norte,Londres,+51° 30´ 27´´ (N),-000° 07´ 20´´ (W),2002-08-13,438,Republica federal de Alemania,Bremerhaven,+53° 32´ 34´´ (N),+008° 34´ 31´´ (E),3,4,354
+2002,2002-08-17,438,Republica Federal de Alemania,Bremerhaven,+53° 32´ 34´´ (N),+008° 34´ 31´´ (E),2002-08-25,406,Reino de Belgica,Zeebgrugee ,+51° 20´ 13´´ (N),+003° 13´ 02´´ (E),8,1,322
+2002,2002-08-26,406,Reino de Belgica,Zeebgrugee ,+51° 20´ 13´´ (N),+003° 13´ 02´´ (E),2002-08-26,423,Paises Bajos,Amsterdam,+52° 22´ 31´´ (N),+004° 54´ 14´´ (E),0,4,108
+2002,2002-08-30,423,Paises Bajos,Amsterdam,+52° 22´ 31´´ (N),+004° 54´ 14´´ (E),2002-09-07,410,Reino de Espania,Cadiz,+36° 31´ 21´´ (N),-006° 16´ 53´´ (W),8,6,1355
+2002,2002-09-13,410,Reino de Espania,Cadiz,+36° 31´ 21´´ (N),-006° 16´ 53´´ (W),2002-09-29,203,Republica Federativa de Brasil,Fortaleza,-03° 43´ 51´´ (S),-038° 36´ 51´´ (W),16,4,3116
+2002,2002-10-03,203,Republica Federativa de Brasil,Fortaleza,-03° 43´ 51´´ (S),-038° 36´ 51´´ (W),2002-10-24,200,Republica Argentina,Ushuaia,-54° 47´ 17´´ (S),-068° 17´ 40´´ (W),21,4,4055
+2002,2002-10-28,200,Republica Argentina,Ushuaia,-54° 47´ 17´´ (S),-068° 17´ 40´´ (W),2002-11-02,200,Republica Argentina,Puerto Madryn,-42° 44´ 36´´ (S),-065° 03´ 19´´ (W),5,2,930
+2002,2002-11-04,200,Republica Argentina,Puerto Madryn,-42° 44´ 36´´ (S),-065° 03´ 19´´ (W),2002-11-09,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),5,,823
+2003,2003-05-24,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),2003-05-29,200,Republica Argentina,Puerto Madryn,-42° 44´ 36´´ (S),-065° 03´ 19´´ (W),5,2,880
+2003,2003-05-31,200,Republica Argentina,Puerto Madryn,-42° 44´ 36´´ (S),-065° 03´ 19´´ (W),2003-06-05,200,Republica Argentina,Ushuaia,-54° 47´ 17´´ (S),-068° 17´ 40´´ (W),5,3,920
+2003,2003-06-08,200,Republica Argentina,Ushuaia,-54° 47´ 17´´ (S),-068° 17´ 40´´ (W),2003-06-18,208,Republica de Chile,Valparaiso,-33° 03´ 01´´ (S),-071° 38´ 20´´ (W),10,4,1930
+2003,2003-06-22,208,Republica de Chile,Valparaiso,-33° 03´ 01´´ (S),-071° 38´ 20´´ (W),2003-06-30,222,Republica de Peru,El Callao,-12° 03´ 13´´ (S),-077° 07´ 16´´ (W),8,4,1309
+2003,2003-07-04,222,Republica de Peru,El Callao,-12° 03´ 13´´ (S),-077° 07´ 16´´ (W),2003-07-19,212,Estados Unidos de America,Mayport,+30° 19´ 29´´ (N),-081° 37´ 45´´ (W),15,4,2924
+2003,2003-07-23,212,Estados Unidos de America,Mayport,+30° 19´ 29´´ (N),-081° 37´ 45´´ (W),2003-07-28,212,Estados Unidos de America,Baltimore,+39° 16´ 52´´ (N),-076° 35´ 44´´ (W),5,7,687
+2003,2003-08-04,212,Estados Unidos de America,Baltimore,+39° 16´ 52´´ (N),-076° 35´ 44´´ (W),2003-08-25,426,Reino Unido de Gran Bretania e Irlanda del Norte,Portsmouth,+50° 53´ 38´´ (N),-001° 22´ 31´´ (W),21,4,3497
+2003,2003-08-29,426,Reino Unido de Gran Bretania e Irlanda del Norte,Portsmouth,+50° 53´ 38´´ (N),-001° 22´ 31´´ (W),2003-08-30,406,Reino de Belgica,Zeebgrugge,+51° 20´ 13´´ (N),+003° 13´ 02´´ (E),1,9,214
+2003,2003-09-08,406,Reino de Belgica,Zeebgrugge,+51° 20´ 13´´ (N),+003° 13´ 02´´ (E),2003-09-09,423,Paises Bajos,Rotterdam,+51° 54´ 15´´ (N),+004° 26´ 32´´ (E),1,6,110
+2003,2003-09-15,423,Paises Bajos,Rotterdam,+51° 54´ 15´´ (N),+004° 26´ 32´´ (E),2003-09-18,412,Republica Francesa,Brest,+48° 23´ 12´´ (N),-004° 29´ 26´´ (W),3,7,553
+2003,2003-09-25,412,Republica Francesa,Brest,+48° 23´ 12´´ (N),-004° 29´ 26´´ (W),2003-09-27,410,Reino de Espania,El Ferrol,+43° 28´ 08´´ (N),-008° 16´ 00´´ (W),2,11,360
+2003,2003-10-08,410,Reino de Espania,El Ferrol,+43° 28´ 08´´ (N),-008° 16´ 00´´ (W),2003-10-10,410,Reino de Espania,Las Palmas de Gran Canaria,+28° 07´ 43´´ (N),-015° 25´ 49´´ (W),2,3,1208
+2003,2003-10-13,410,Reino de Espania,Las Palmas de Gran Canaria,+28° 07´ 43´´ (N),-015° 25´ 49´´ (W),2003-11-03,203,Republica Federativa de Brasil,Rio de Janeiro,-22° 54´ 00´´ (S),-043° 12´ 00´´ (W),21,4,3526
+2003,2003-11-07,203,Republica Federativa de Brasil,Rio de Janeiro,-22° 54´ 00´´ (S),-043° 12´ 00´´ (W),2003-11-15,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),8,,1156
+2007,2007-04-07,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),2007-04-18,203,Republica Federativa de Brasil,Salvador de Bahia,-12° 58´ 16´´ (S),-038° 30´ 05´´ (W),11,4,1879
+2007,2007-04-22,203,Republica Federativa de Brasil,Salvador de Bahia,-12° 58´ 16´´ (S),-038° 30´ 05´´ (W),2007-05-05,226,Republica Bolivariana de Venezuela,La Guaira,+10° 36´ 00´´ (N),-066° 55´ 59´´ (W),13,4,2924
+2007,2007-05-09,226,Republica Bolivariana de Venezuela,La Guaira,+10° 36´ 00´´ (N),-066° 55´ 59´´ (W),2007-05-12,223,Estado Libre Asociado de Puerto Rico,Municipio Autonomo de San Juan,+18° 27´ 27´´ (N),-066° 12´ 32´´ (W),3,4,572
+2007,2007-05-16,223,Estado Libre Asociado de Puerto Rico,Municipio Autonomo de San Juan,+18° 27´ 27´´ (N),-066° 12´ 32´´ (W),2007-05-23,212,Estados Unidos de America,Baltimore,+39° 16´ 52´´ (N),-076° 35´ 44´´ (W),7,4,1406
+2007,2007-05-27,212,Estados Unidos de America,Baltimore,+39° 16´ 52´´ (N),-076° 35´ 44´´ (W),2007-05-31,204,Canada,Halifax,+44° 37´ 32´´ (N),-063° 34´ 25´´ (W),4,3,955
+2007,2007-06-03,204,Canada,Halifax,+44° 37´ 32´´ (N),-063° 34´ 25´´ (W),2007-06-16,415,Republica de Irlanda,Galway,+53° 15´ 59´´ (N),-009° 03´ 19´´ (W),13,3,2253
+2007,2007-06-19,415,Republica de Irlanda,Galway,+53° 15´ 59´´ (N),-009° 03´ 19´´ (W),2007-06-21,415,Republica de Irlanda,Dublin,+53° 20´ 36´´ (N),-006° 13´ 35´´ (W),2,5,399
+2007,2007-06-26,415,Republica de Irlanda,Dublin,+53° 20´ 36´´ (N),-006° 13´ 35´´ (W),2007-06-30,423,Paises Bajos,Amsterdam,+52° 22´ 31´´ (N),+004° 54´ 14´´ (E),4,4,821
+2007,2007-07-04,423,Paises Bajos,Amsterdam,+52° 22´ 31´´ (N),+004° 54´ 14´´ (E),2007-07-11,410,Reino de Espania,Cadiz,+36° 31´ 21´´ (N),-006° 16´ 53´´ (W),7,5,1458
+2007,2007-07-16,410,Reino de Espania,Cadiz,+36° 31´ 21´´ (N),-006° 16´ 53´´ (W),2007-07-20,412,Republica Francesa,Toulon,+43° 07´ 00´´ (N),+005° 56´ 00´´ (E),4,4,812
+2007,2007-07-24,412,Republica Francesa,Toulon,+43° 07´ 00´´ (N),+005° 56´ 00´´ (E),2007-07-28,417,Republica Italiana,Genova,+44° 24´ 52´´ (N),+008° 54´ 54´´ (E),4,3,230
+2007,2007-07-31,417,Republica Italiana,Genova,+44° 24´ 52´´ (N),+008° 54´ 54´´ (E),2007-08-01,417,Republica Italiana,La Spezia,+44° 05´ 53´´ (N),+009° 49´ 18´´ (E),1,4,92
+2007,2007-08-05,417,Republica Italiana,La Spezia,+44° 05´ 53´´ (N),+009° 49´ 18´´ (E),2007-08-16,412,Republica Francesa,Boulogne Sur Mer,+50° 43´ 48´´ (N),+001° 35´ 37´´ (E),11,5,2186
+2007,2007-08-21,412,Republica Francesa,Boulogne Sur Mer,+50° 43´ 48´´ (N),+001° 35´ 37´´ (E),2007-08-24,422,Reino de Noruega,Oslo,+59° 54´ 16´´ (N),+010° 44´ 20´´ (E),3,4,670
+2007,2007-08-28,422,Reino de Noruega,Oslo,+59° 54´ 16´´ (N),+010° 44´ 20´´ (E),2007-08-31,409,Reino de Dinamarca,Copenhague,+55° 40´ 17´´ (N),+012° 34´ 43´´ (E),3,4,300
+2007,2007-09-04,409,Reino de Dinamarca,Copenhague,+55° 40´ 17´´ (N),+012° 34´ 43´´ (E),2007-09-08,406,Reino de Belgica,Amberes,+51° 12´ 08´´ (N),+004° 22´58´´ (E),4,4,760
+2007,2007-09-12,406,Reino de Belgica,Amberes,+51° 12´ 08´´ (N),+004° 22´58´´  (E),2007-09-28,212,Estados Unidos de America,Boston,+42° 21´ 00´´ (N),-071° 04´ 59´´ (W),16,5,3352
+2007,2007-10-03,212,Estados Unidos de America,Boston,+42° 21´ 00´´ (N),-071° 04´ 59´´ (W),2007-10-06,212,Estados Unidos de America,Norfolk,+36° 51´ 09´´ (N),-076° 20´ 14´´ (W),3,4,597
+2007,2007-10-10,212,Estados Unidos de America,Norfolk,+36° 51´ 09´´ (N),-076° 20´ 14´´ (W),2007-10-18,209,Republica Dominicana,Cartagena de Indias,+10° 24´ 09´´ (N),-075° 31´ 12´´ (W),8,4,1748
+2007,2007-10-22,209,Republica Dominicana,Cartagena de Indias,+10° 24´ 09´´ (N),-075° 31´ 12´´ (W),2007-11-01,222,Republica de Peru,El Callao,-12° 03´ 13´´ (S),-077° 07´ 16´´ (W),10,3,1698
+2007,2007-11-04,222,Republica de Peru,El Callao,-12° 03´ 13´´ (S),-077° 07´ 16´´ (W),2007-11-12,208,Republica de Chile,Valparaiso,-33° 03´ 01´´ (S),-071° 38´ 20´´ (W),8,4,1332
+2007,2007-11-16,208,Republica de Chile,Valparaiso,-33° 03´ 01´´ (S),-071° 38´ 20´´ (W),2007-11-23,200,Republica Argentina,Ushuaia,-54° 47´ 17´´ (S),-068° 17´ 40´´ (W),7,4,1646
+2007,2007-11-27,200,Republica Argentina,Ushuaia,-54° 47´ 17´´ (S),-068° 17´ 40´´ (W),2007-12-03,225,Republica Oriental del Uruguay,Montevideo,-34° 54´ 24´´ (S),-056° 11´ 45´´ (W),6,3,1441
+2007,2007-12-06,225,Republica Oriental del Uruguay,Montevideo,-34° 54´ 24´´ (S),-056° 11´ 45´´ (W),2007-12-12,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),6,,142
+2008,2008-04-05,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),2008-04-26,159,Republica de Sudafrica,Cape Town,-33° 56´ 44´´ (S),+018° 25´ 51´´ (E),21,6,3949
+2008,2008-05-02,159,Republica de Sudafrica,Cape Town,-33° 56´ 44´´ (S),+018° 25´ 51´´ (E),2008-05-04,128,Isla Mauricio,Port Louis,-20° 08´ 37´´ (S),+057° 30´ 58´´ (E),2,14,2360
+2008,2008-05-18,128,Isla Mauricio,Port Louis,-20° 08´ 37´´ (S),+057° 30´ 58´´ (E),2008-05-24,152,Republica de las Seychelles,Port Victoria,-04° 37´ 00´´ (S),+055° 28´ 00´´ (E),6,4,1008
+2008,2008-05-28,152,Republica de las Seychelles,Port Victoria,-04° 37´ 00´´ (S),+055° 28´ 00´´ (E),2008-06-06,315,Republica de la India,Bombay,+18° 56´ 04´´ (N),+072° 49´ 32´´ (E),9,7,1859
+2008,2008-06-13,315,Republica de la India,Bombay,+18° 56´ 04´´ (N),+072° 49´ 32´´ (E),2008-06-26,326,Malasia,Port Klang,+03° 00´ 12´´ (N),+101° 22´ 57´´ (E),13,4,2346
+2008,2008-06-30,326,Malasia,Port Klang,+03° 00´ 12´´ (N),+101° 22´ 57´´ (E),2008-07-08,312,Republica de Filipinas,Manila,+14° 37´ 52´´ (N),+120° 58´ 19´´ (E),8,4,1557
+2008,2008-07-12,312,Republica de Filipinas,Manila,+14° 37´ 52´´ (N),+120° 58´ 19´´ (E),2008-07-21,310,Republica Popular China,Shangai,+31° 24´ 00´´ (N),+121° 29´ 49´´ (E),9,4,1824
+2008,2008-07-25,310,Republica Popular China,Shangai,+31° 24´ 00´´ (N),+121° 29´ 49´´ (E),2008-07-28,309,Republica de Corea,Busan,+35° 05´ 53´´ (N),+129° 02´ 08´´ (E),3,4,522
+2008,2008-08-01,309,Republica de Corea,Busan,+35° 05´ 53´´ (N),+129° 02´ 08´´ (E),2008-08-05,320,Estado de Japon,Yokohama,+35° 27´ 27´´ (N),+139° 38´ 4´´ (E),4,6,880
+2008,2008-08-11,320,Estado de Japon,Yokohama,+35° 27´ 27´´ (N),+139° 38´ 04´´ (E),2008-08-18,212,Estados Unidos de America,Guam,+13° 24´ 34´´ (N),+144° 40´ 04´´ (E),7,5,1396
+2008,2008-08-23,212,Estados Unidos de America,Guam,+13° 22´ 34´´ (N),+144° 39´ 25´´ (E),2008-09-06,540,Republica de Francia - Nueva Caledonia,Numea,-22° 18´ 16´´ (S),+166° 25´ 54´´ (E),14,4,2702
+2008,2008-09-10,540,Republica de Francia - Nueva Caledonia,Numea,-22° 18´ 16´´ (S),+166° 25´ 54´´ (E),2008-09-16,501,Mancomunidad de Australia,Sydney,-33° 52´ 10´´ (S),+151° 10´ 58´´ (E),6,6,1160
+2008,2008-09-22,501,Mancomunidad de Australia,Sydney,-33° 52´ 10´´ (S),+151° 10´ 58´´ (E),2008-09-29,554,Nueva Zelanda,Wellington,-41° 15´ 17´´ (S),+174° 46´ 23´´ (E),7,6,1286
+2008,2008-10-05,554,Nueva Zelanda,Wellington,-41° 15´ 17´´ (S),+174° 46´ 23´´ (E),2008-11-08,208,Republica de Chile,Valparaiso,-33° 03´ 01´´ (S),-071° 38´ 20´´ (W),34,6,5520
+2008,2008-11-14,208,Republica de Chile,Valparaiso,-33° 03´ 01´´ (S),-071° 38´ 20´´ (W),2008-11-22,208,Republica de Chile,Punta Arenas,-53° 06´ 06´´ (S),-070° 56´ 28´´ (W),8,2,1549
+2008,2008-11-24,208,Republica de Chile,Punta Arenas,-53° 06´ 06´´ (S),-070° 56´ 28´´ (W),2008-12-01,225,Republica Oriental del Uruguay,Montevideo,-34° 54´ 24´´ (S),-056° 11´ 45´´ (W),7,3,1404
+2008,2008-12-04,225,Republica Oriental del Uruguay,Montevideo,-34° 54´ 24´´ (S),-056° 11´ 45´´ (W),2008-12-06,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),2,,130
+2009,2009-04-12,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),2009-04-23,203,Republica Federativa del Brasil,Salvador de Bahia,-12° 58´ 16´´ (S),-038° 30´ 05´´ (W),11,4,1938
+2009,2009-04-27,203,Republica Federativa de Brasil,Salvador de Bahia,-12° 58´ 16´´ (S),-038° 30´ 05´´ (W),2009-05-13,,Islas Canarias,Santa Cruz de Tenerife,+28 29´ 02´´ (N),-016° 14´ 55´´ (W),16,5,3006
+2009,2009-05-18,,Islas Canarias,Santa Cruz de Tenerife,+28° 29´ 02´´  (N),-016° 14´ 55´´ (W),2009-05-24,410,Reino de Espania,La Corunia,+43° 28´ 08´´ (N),-008° 16´ 00´´ (W),6,7,1055
+2009,2009-05-31,410,Reino de Espania,La Corunia,+43° 28´ 08´´ (N),-008° 16´ 00´´ (W),2009-06-05,423,Paises Bajos,Amsterdam,+52° 22´ 31´´ (N),+004° 54´ 14´´ (E),5,7,832
+2009,2009-06-12,423,Paises Bajos,Amsterdam,+52° 22´ 31´´ (N),+004° 54´ 14´´ (E),2009-06-12,423,Paises Bajos,Rotterdam,+51° 54´ 15´´ (N),+004° 26´ 32´´ (E),0,0,76
+2009,2009-06-12,423,Paises Bajos,Rotterdam,+51° 54´ 15´´ (N),+004° 26´ 32´´ (E),2009-06-16,415,Republica de Irlanda,Dublin,+53° 20´ 36´´ (N),-006° 13´ 35´´ (W),4,5,714
+2009,2009-06-21,415,Republica de Irlanda,Dublin,+53° 20´ 36´´ (N),-006° 13´ 35´´ (W),2009-07-07,212,Estados Unidos de America,Boston,+42° 21´ 00´´ (N),-071° 04´ 59´´ (W),16,6,2995
+2009,2009-07-13,212,Estados Unidos de America,Boston,+42° 21´ 00´´ (N),-071° 04´ 59´´ (W),2009-07-23,209,Republica Dominicana,Santo Domingo,+18° 28´ 17´´ (N),-069° 52´ 29´´ (W),10,3,1785
+2009,2009-07-26,209,Republica Dominicana,Santo Domingo,+18° 28´ 17´´ (N),-069° 52´ 29´´ (W),2009-08-08,203,Republica Federativa del Brasil,Fortaleza,-03° 43´ 51´´ (S),-038° 36´ 51´´ (W),13,3,2399
+2009,2009-08-11,203,Republica Federativa de Brasil,Fortaleza,-03° 43´ 51´´ (S),-038° 36´ 51´´ (W),2009-08-26,225,Republica Oriental del Uruguay,Montevideo,-34° 54´ 24´´ (S),-056° 11´ 45´´ (W),15,2,2610
+2009,2009-08-28,225,Republica Oriental del Uruguay,Montevideo,-34° 54´ 24´´ (S),-056° 11´ 45´´ (W),2009-08-29,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),1,,138
+2010,2010-01-23,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),2010-01-31,203,Republica Federativa del Brasil,Rio de Janeiro,-22° 54´ 00´´ (S),-043° 12´ 00´´ (W),8,7,1268
+2010,2010-02-07,203,Republica Federativa de Brasil,Rio de Janeiro,-22° 54´ 00´´ (S),-043° 12´ 00´´ (W),2010-02-16,200,Republica Argentina,Mar del Plata,-38° 01´ 59´´ (S),-057° 31´ 59´´ (W),9,10,1299
+2010,2010-02-26,200,Republica Argentina,Mar del Plata,-38° 01´ 59´´ (S),-057° 31´ 59´´ (W),2010-03-01,225,Republica Oriental del Uruguay,Montevideo,-34° 54´ 24´´ (S),-056° 11´ 45´´ (W),3,2,245
+2010,2010-03-03,225,Republica Oriental del Uruguay,Montevideo,-34° 54´ 24´´ (S),-056° 11´ 45´´ (W),2010-03-03,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),0,6,137
+2010,2010-03-09,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),2010-03-19,200,Republica Argentina,Ushuaia,-54° 47´ 17´´ (S),-068° 17´ 40´´ (W),10,4,1728
+2010,2010-03-23,200,Republica Argentina,Ushuaia,-54° 47´ 17´´ (S),-068° 17´ 40´´ (W),2010-03-27,208,Republica de Chile,Punta Arenas,-53° 06´ 06´´ (S),-070° 56´ 28´´ (W),4,4,521
+2010,2010-03-31,208,Republica de Chile,Punta Arenas,-53° 06´ 06´´ (S),-070° 56´ 28´´ (W),2010-04-13,208,Republica de Chile,Valparaiso,-33° 03´ 01´´ (S),-071° 38´ 20´´ (W),13,5,1658
+2010,2010-04-18,208,Republica de Chile,Valparaiso,-33° 03´ 01´´ (S),-071° 38´ 20´´ (W),2010-04-21,208,Republica de Chile,Antofagasta,-23° 39´ 25´´ (S),-070° 23´ 51´´ (W),3,2,606
+2010,2010-04-23,208,Republica de Chile,Antofagasta,-23° 39´ 25´´ (S),-070° 23´ 51´´ (W),2010-04-28,222,Republica de Peru,El Callao,-12° 03´ 13´´ (S),-077° 07´ 16´´ (W),5,4,606
+2010,2010-05-02,222,Republica de Peru,El Callao,-12° 03´ 13´´ (S),-077° 07´ 16´´ (W),2010-05-06,210,Republica de Ecuador,Guayaquil,-02° 14´ 25´´ (S),-079° 52´ 53´´ (W),4,5,873
+2010,2010-05-11,210,Republica de Ecuador,Guayaquil,-02° 14´ 25´´ (S),-079° 52´ 53´´ (W),2010-05-19,205,Republica de Colombia,Cartagena de Indias,+10° 24´ 09´´ (N),-075° 31´ 12´´ (W),8,4,724
+2010,2010-05-23,205,Republica de Colombia,Cartagena de Indias,+10° 24´ 09´´ (N),-075° 31´ 12´´ (W),2010-05-29,226,Republica Bolivariana de Venezuela,La Guaira,+10° 36´ 00´´ (N),-066° 55´ 59´´ (W),6,4,1083
+2010,2010-06-02,226,Republica Bolivariana de Venezuela,La Guaira,+10° 36´ 00´´ (N),-066° 55´ 59´´ (W),2010-06-13,203,Republica Federativa del Brasil,Fortaleza,-03° 43´ 51´´ (S),-038° 36´ 51´´ (W),11,4,686
+2010,2010-06-17,203,Republica Federativa de Brasil,Fortaleza,-03° 43´ 51´´ (S),-038° 36´ 51´´ (W),2010-07-01,225,Republica Oriental del Uruguay,Montevideo,-34° 54´ 24´´ (S),-056° 11´ 45´´ (W),14,3,2038
+2010,2010-07-04,225,Republica Oriental del Uruguay,Montevideo,-34° 54´ 24´´ (S),-056° 11´ 45´´ (W),2010-07-06,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),2,,133
+2011,2011-05-28,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),2011-06-04,200,Republica Argentina,Mar del Plata,-38° 01´ 59´´ (S),-057° 31´ 59´´ (W),7,2,908
+2011,2011-06-06,200,Republica Argentina,Mar del Plata,-38° 01´ 59´´ (S),-057° 31´ 59´´ (W),2011-06-15,203,Republica Federativa del Brasil,Rio de Janeiro,-22° 54´ 00´´ (S),-043° 12´ 00´´ (W),9,3,1239
+2011,2011-06-18,203,Republica Federativa de Brasil,Rio de Janeiro,-22° 54´ 00´´ (S),-043° 12´ 00´´ (W),2011-06-26,203,Republica Federativa del Brasil,Recife,-08° 02´ 01´´ (S),-034° 52´ 29´´ (W),8,4,1203
+2011,2011-06-30,203,Republica Federativa de Brasil,Recife,-08° 02´ 01´´ (S),-034° 52´ 29´´ (W),2011-07-10,232,Surinam,Paramaribo,+05° 52´ 50´´ (N),-055° 12´ 52´´ (W),10,3,1871
+2011,2011-07-13,232,Surinam,Paramaribo,+05° 52´ 50´´ (N),-055° 12´ 52´´ (W),2011-07-15,214,Guyana,George Town,+06° 48´ 55´´ (N),-058° 09´ 15´´ (W),2,4,227
+2011,2011-07-19,214,Guyana,George Town,+06° 48´ 55´´ (N),-058° 09´ 15´´ (W),2011-07-25,226,Republica Bolivariana de Venezuela,La Guaira,+10° 36´ 00´´ (N),-066° 55´ 59´´ (W),6,4,733
+2011,2011-07-29,226,Republica Bolivariana de Venezuela,La Guaira,+10° 36´ 00´´ (N),-066° 55´ 59´´ (W),2011-08-02,205,Republica de Colombia,Cartagena de Indias,+10° 24´ 09´´ (N),-075° 31´ 12´´ (W),4,3,654
+2011,2011-08-05,205,Republica de Colombia,Cartagena de Indias,+10° 24´ 09´´ (N),-075° 31´ 12´´ (W),2011-08-13,210,Republica de Ecuador,Guayaquil,-02° 14´ 25´´ (S),-079° 52´ 53´´ (W),8,3,1275
+2011,2011-08-16,210,Republica de Ecuador,Guayaquil,-02° 14´ 25´´ (S),-079° 52´ 53´´ (W),2011-08-21,222,Republica de Peru,El Callao,-12° 03´ 13´´ (S),-077° 07´ 16´´ (W),5,3,785
+2011,2011-08-24,222,Republica de Peru,El Callao,-12° 03´ 13´´ (S),-077° 07´ 16´´ (W),2011-09-03,208,Republica de Chile,Valparaiso,-33° 03´ 01´´ (S),-071° 38´ 20´´ (W),10,4,1366
+2011,2011-09-07,208,Republica de Chile,Valparaiso,-33° 03´ 01´´ (S),-071° 38´ 20´´ (W),2011-09-17,208,Republica de Chile,Punta Arenas,-53° 06´ 06´´ (S),-070° 56´ 28´´ (W),10,2,1571
+2011,2011-09-19,208,Republica de Chile,Punta Arenas,-53° 06´ 06´´ (S),-070° 56´ 28´´ (W),2011-09-21,200,Republica Argentina,Ushuaia,-54° 47´ 17´´ (S),-068° 17´ 40´´ (W),2,5,266
+2011,2011-09-26,200,Republica Argentina,Ushuaia,-54° 47´ 17´´ (S),-068° 17´ 40´´ (W),2011-09-28,200,Republica Argentina,San Julian,-49° 18´ 0´´ (S),-067° 43´ 00´´ (W),2,0,525
+2011,2011-09-28,200,Republica Argentina,San Julian,-49° 18´ 0´´  (S),-067° 43´ 00´´ (W),2011-09-30,200,Republica Argentina,Comodoro Rivadavia,-47° 49´ 37´´ (S),-067° 29´ 37´´ (W),2,1,345
+2011,2011-10-01,200,Republica Argentina,Comodoro Rivadavia,-47° 49´ 37´´ (S),-067° 29´ 37´´ (W),2011-10-04,200,Republica Argentina,Puerto Madryn,-42° 44´ 36´´ (S),-065° 03´ 19´´ (W),3,3,304
+2011,2011-10-07,200,Republica Argentina,Puerto Madryn,-42° 44´ 36´´ (S),-065° 03´ 19´´ (W),2011-10-10,200,Republica Argentina,Bahia Blanca,-38° 46´ 59´´ (S),-062° 16´ 00´´ (W),3,3,356
+2011,2011-10-13,200,Republica Argentina,Bahia Blanca,-38° 46´ 59´´ (S),-062° 16´ 00´´ (W),2011-10-17,225,Republica Oriental del Uruguay,Montevideo,-34° 54´ 24´´ (S),-056° 11´ 45´´ (W),4,3,516
+2011,2011-10-20,225,Republica Oriental del Uruguay,Montevideo,-34° 54´ 24´´ (S),-056° 11´ 45´´ (W),2011-10-22,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),2,,144
+2012,2012-06-02,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),2012-06-14,203,Republica Federativa del Brasil,Salvador de Bahia,-12° 58´ 16´´ (S),-038° 30´ 05´´ (W),12,4,2113
+2012,2012-06-18,203,Republica Federativa de Brasil,Salvador de Bahia,-12° 58´ 16´´ (S),-038° 30´ 05´´ (W),2012-07-02,232,Surinam,Paramaribo,+05° 52´ 50´´ (N),-055° 12´ 52´´ (W),14,2,3169
+2012,2012-07-04,232,Surinam,Paramaribo,+05° 52´ 50´´ (N),-055° 12´ 52´´ (W),2012-07-05,214,Guyana,George Town,+06° 48´ 55´´ (N),-058° 09´ 15´´ (W),1,2,244
+2012,2012-07-07,214,Guyana,George Town,+06° 48´ 55´´ (N),-058° 09´ 15´´ (W),2012-07-13,226,Republica Bolivariana de Venezuela,La Guaira,+10° 36´ 00´´ (N),-066° 55´ 59´´ (W),6,5,1065
+2012,2012-07-18,226,Republica Bolivariana de Venezuela,La Guaira,+10° 36´ 00´´ (N),-066° 55´ 59´´ (W),2012-08-07,425,Republica Portuguesa,Funchal ,+32° 38´ 52´´ (N),-016° 54´ 38´´ (W),20,3,3756
+2012,2012-08-10,425,Republica Portuguesa,Funchal ,+32° 38´ 52´´ (N),-016° 54´ 38´´ (W),2012-08-15,425,Republica Portuguesa,Lisboa,+38° 42´ 52´´ (N),-009° 09´ 40´´ (W),5,5,705
+2012,2012-08-20,425,Republica Portuguesa,Lisboa,+38° 42´ 52´´ (N),-009° 09´ 40´´ (W),2012-08-22,410,Reino de Espania,Cadiz,+36° 31´ 21´´ (N),-006° 16´ 53´´ (W),2,5,299
+2012,2012-08-27,410,Reino de Espania,Cadiz,+36° 31´ 21´´ (N),-006° 16´ 53´´ (W),2012-08-30,127,Reino de Marruecos,Casablanca,+33° 34´ 42´´ (N),-007° 37´ 28´´ (W),3,4,351
+2012,2012-09-03,127,Reino de Marruecos,Casablanca,+33° 34´ 42´´ (N),-007° 37´ 28´´ (W),2012-09-07,410,Reino de Espania,Las Palmas de Gran Canaria,+28° 07´ 43´´ (N),-015° 25´ 49´´ (W),4,3,599
+2012,2012-09-10,410,Reino de Espania,Las Palmas de Gran Canaria,+28° 07´ 43´´ (N),-015° 25´ 49´´ (W),2012-09-17,134,Republica de Senegal,Dakar,+14° 40´ 56´´ (N),-017° 26´ 26´´ (W),7,3,1216
+2012,2012-09-20,134,Republica de Senegal,Dakar,+14° 40´ 56´´ (N),-017° 26´ 26´´ (W),2012-10-01,117,Ghana,Tema,+05° 37´ 59´´ (N),+000° 01´ 00´´ (E),11,79,2162
+2012,2012-12-19,117,Ghana,Tema,+05° 37´ 59´´ (N),+000° 01´ 00´´ (E),2013-01-09,200,Republica Argentina,Mar del Plata,-38° 01´ 59´´ (S),-057° 31´ 59´´ (W),21,,4332
+2014,2014-02-01,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),2014-02-11,203,Republica Federativa del Brasil,Itajai,-26° 54´ 00´´ (S),-048° 39´ 00´´ (W),10,7,1119
+2014,2014-02-18,203,Republica Federativa de Brasil,Itajai,-26° 54´ 00´´ (S),-048° 39´ 00´´ (W),2014-02-21,225,Republica Oriental del Uruguay,Punta del Este,-34° 56´ 20´´ (S),-054° 56´ 30´´ (W),3,3,689
+2014,2014-02-24,225,Republica Oriental del Uruguay,Punta del Este,-34° 56´ 20´´ (S),-054° 56´ 30´´ (W),2014-02-28,200,Republica Argentina,Mar del Plata,-38° 01´ 59´´ (S),-057° 31´ 59´´ (W),4,5,318
+2014,2014-03-05,200,Republica Argentina,Mar del Plata,-38° 01´ 59´´ (S),-057° 31´ 59´´ (W),2014-03-14,200,Republica Argentina,Ushuaia,-54° 47´ 17´´ (S),-068° 17´ 40´´ (W),9,3,1469
+2014,2014-03-17,200,Republica Argentina,Ushuaia,-54° 47´ 17´´ (S),-068° 17´ 40´´ (W),2014-03-21,208,Republica de Chile,Punta Arenas,-53° 06´ 06´´ (S),-070° 56´ 28´´ (W),4,3,547
+2014,2014-03-24,208,Republica de Chile,Punta Arenas,-53° 06´ 06´´ (S),-070° 56´ 28´´ (W),2014-04-02,208,Republica de Chile,Talcahuano,-36° 41´ 08´´ (S),-073° 06´ 20´´ (W),9,4,1591
+2014,2014-04-06,208,Republica de Chile,Talcahuano,-36° 41´ 08´´ (S),-073° 06´ 20´´ (W),2014-04-08,208,Republica de Chile,Valparaiso,-33° 03´ 01´´ (S),-071° 38´ 20´´ (W),2,5,267
+2014,2014-04-13,208,Republica de Chile,Valparaiso,-33° 03´ 01´´ (S),-071° 38´ 20´´ (W),2014-04-24,222,Republica de Peru,El Callao,-12° 03´ 13´´ (S),-077° 07´ 16´´ (W),11,4,1557
+2014,2014-04-28,222,Republica de Peru,El Callao,-12° 03´ 13´´ (S),-077° 07´ 16´´ (W),2014-05-03,210,Republica de Ecuador,Manta,-00° 56´ 59´´ (S),-080° 42´ 58´´ (W),5,4,780
+2014,2014-05-07,210,Republica de Ecuador,Manta,-00° 56´ 59´´ (S),-080° 42´ 58´´ (W),2014-05-15,205,Republica de Colombia,Cartagena de Indias,+10° 24´ 09´´ (N),-075° 31´ 12´´ (W),8,4,990
+2014,2014-05-19,205,Republica de Colombia,Cartagena de Indias,+10° 24´ 09´´ (N),-075° 31´ 12´´ (W),2014-05-25,226,Republica Bolivariana de Venezuela,La Guaira,+10° 36´ 00´´ (N),-066° 55´ 59´´ (W),6,3,789
+2014,2014-05-28,226,Republica Bolivariana de Venezuela,La Guaira,+10° 36´ 00´´ (N),-066° 55´ 59´´ (W),2014-06-01,209,Republica Dominicana,Santo Domingo,+18° 28´ 17´´ (N),-069° 52´ 29´´ (W),4,3,650
+2014,2014-06-04,209,Republica Dominicana,Santo Domingo,+18° 28´ 17´´ (N),-069° 52´ 29´´ (W),2014-06-18,218,Estados Unidos Mexicanos,Veracruz,+19° 12´ 00´´ (N),-096° 07´ 59´´ (W),14,6,2060
+2014,2014-06-24,218,Estados Unidos Mexicanos,Veracruz,+19° 12´ 00´´ (N),-096° 07´ 59´´ (W),2014-07-01,207,Republica de Cuba,La Habana,+23° 08´ 14´´ (N),-082° 23´ 48´´ (W),7,6,991
+2014,2014-07-07,207,Republica de Cuba,La Habana,+23° 08´ 14´´ (N),-082° 23´ 48´´ (W),2014-07-10,215,Republica de Haiti,Puerto Principe,+18° 32´ 17´´ (N),-072° 20´ 32´´ (W),3,1,663
+2014,2014-07-11,215,Republica de Haiti,Puerto Principe,+18° 32´ 17´´ (N),-072° 20´ 32´´ (W),2014-07-18,226,Republica Bolivariana de Venezuela,Maracaibo,+10° 39´ 33´´ (N),-071° 36´ 12´´ (W),7,6,918
+2014,2014-07-24,226,Republica Bolivariana de Venezuela,Maracaibo,+10° 39´ 33´´ (N),-071° 36´ 12´´ (W),2014-08-01,232,Surinam,Paramaribo,+05° 52´ 50´´ (N),-055° 12´ 52´´ (W),8,1,1255
+2014,2014-08-02,232,Surinam,Paramaribo,+05° 52´ 50´´ (N),-055° 12´ 52´´ (W),2014-08-10,203,Republica Federativa de Brasil,Fortaleza,-03° 43´ 51´´ (S),-038° 36´ 51´´ (W),8,4,1263
+2014,2014-08-14,203,Republica Federativa de Brasil,Fortaleza,-03° 43´ 51´´ (S),-038° 36´ 51´´ (W),2014-08-23,203,Republica Federativa de Brasil,Salvador de Bahia,-12° 58´ 16´´ (S),-038° 30´ 05´´ (W),9,4,926
+2014,2014-08-27,203,Republica Federativa de Brasil,Salvador de Bahia,-12° 58´ 16´´ (S),-038° 30´ 05´´ (W),2014-09-05,203,Republica Federativa de Brasil,Rio de Janeiro,-22° 54´ 00´´ (S),-043° 12´ 00´´ (W),9,5,903
+2014,2014-09-10,203,Republica Federativa de Brasil,Rio de Janeiro,-22° 54´ 00´´ (S),-043° 12´ 00´´ (W),2014-09-20,200,Republica Argentina,Puerto Madryn,-42° 44´ 36´´ (S),-065° 03´ 19´´ (W),10,4,1684
+2014,2014-09-24,200,Republica Argentina,Puerto Madryn,-42° 44´ 36´´ (S),-065° 03´ 19´´ (W),2014-10-02,208,Republica de Chile,Punta Arenas,-53° 06´ 06´´ (S),-070° 56´ 28´´ (W),8,4,961
+2014,2014-10-06,208,Republica de Chile,Punta Arenas,-53° 06´ 06´´ (S),-070° 56´ 28´´ (W),2014-10-09,200,Republica Argentina,Ushuaia,-54° 47´ 17´´ (S),-068° 17´ 40´´ (W),3,5,271
+2014,2014-10-14,200,Republica Argentina,Ushuaia,-54° 47´ 17´´ (S),-068° 17´ 40´´ (W),2014-10-27,225,Republica Oriental del Uruguay,Montevideo,-34° 54´ 24´´ (S),-056° 11´ 45´´ (W),13,3,1596
+2014,2014-10-30,225,Republica Oriental del Uruguay,Montevideo,-34° 54´ 24´´ (S),-056° 11´ 45´´ (W),2014-11-01,200,Republica Argentina,Mar del Plata,-38° 01´ 59´´ (S),-057° 31´ 59´´ (W),2,,246
+2016,2016-04-23,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),2016-05-06,203,Republica Federativa del Brasil,Recife,-08° 02´ 01´´ (S),-034° 52´ 29´´ (W),13,4,2251
+2016,2016-05-10,203,Republica Federativa de Brasil,Recife,-08° 02´ 01´´ (S),-034° 52´ 29´´ (W),2016-06-03,212,Estados Unidos de America,Baltimore,+39° 16´ 52´´ (N),-076° 35´ 44´´ (W),24,5,3936
+2016,2016-06-08,212,Estados Unidos de America,Baltimore,+39° 16´ 52´´ (N),-076° 35´ 44´´ (W),2016-06-09,212,Estados Unidos de America,Norfolk,+36 51´ 09´´ (N),-076° 20´ 14´´ (W),1,3,248
+2016,2016-06-12,212,Estados Unidos de America,Norfolk,+36° 51´ 09´´ (N),-076° 20´ 14´´ (W),2016-06-14,212,Estados Unidos de America,Nueva York,+40° 42´ 19´´ (N),-074° 01´ 03´´ (W),2,4,407
+2016,2016-06-18,212,Estados Unidos de America,New York,+40° 42´ 19´´ (N),-074° 01´ 03´´ (W),2016-07-08,423,Paises Bajos,Amsterdam,+52° 22´ 31´´ (N),+004° 54´ 14´´ (E),20,5,3527
+2016,2016-07-13,423,Paises Bajos,Amsterdam,+52° 22´ 31´´ (N),+004° 54´ 14´´ (E),2016-07-16,412,Republica Francesa,Brest,+48° 23´ 12´´ (N),-004° 29´ 26´´ (W),3,5,607
+2016,2016-07-21,412,Republica Francesa,Brest,+48° 23´ 12´´ (N),-004° 29´ 26´´ (W),2016-07-23,426,Reino Unido de Gran Bretania e Irlanda del Norte,Liverpool,+53° 24´ 35´´ (N),-002° 59´ 32´´ (W),2,3,519
+2016,2016-07-26,426,Reino Unido de Gran Bretania e Irlanda del Norte ,Liverpool,+53° 24´ 35´´ (N),-002° 59´ 32´´ (W),2016-07-27,415,Republica de Irlanda,Dublin,+53° 20´ 36´´ (N),-006° 13´ 35´´ (W),1,4,169
+2016,2016-07-31,415,Republica de Irlanda,Dublin,+53° 20´ 36´´ (N),-006° 13´ 35´´ (W),2016-08-04,410,Reino de Espania,El Ferrol,+43° 28´ 02´´ (N),-008° 17´ 13´´ (W),4,5,664
+2016,2016-08-09,410,Reino de Espania,El Ferrol,+43° 28´ 02´´ (N),-008° 17´ 13´´ (W),2016-08-18,412,Republica Francesa,Toulon,+43° 07´ 00´´ (N),+005° 56´ 00´´ (E),9,5,1572
+2016,2016-08-23,412,Republica Francesa,Toulon,+43° 07´ 00´´ (N),+005° 56´ 00´´ (E),2016-08-25,417,Republica Italiana,Civitavecchia,+42° 05´ 47´´ (N),+011° 47´ 14´´ (E),2,5,346
+2016,2016-08-30,417,Republica Italiana,Civitavecchia,+42° 05´ 47´´ (N),+011° 47´ 14´´ (E),2016-09-03,413,Republica Helenica,El Pireo,+37° 57´ 00´´ (N),+011° 47´ 14´´ (E),4,4,1015
+2016,2016-09-07,413,Republica Helenica,El Pireo,+37° 57´ 00´´ (N),+011° 47´ 14´´ (E),2016-09-17,410,Reino de Espania,Cadiz,+36° 31´ 21´´ (N),-006° 16´ 53´´ (W),10,5,1732
+2016,2016-09-22,410,Reino de Espania,Cadiz,+36° 31´ 21´´ (N),-006° 16´ 53´´ (W),2016-10-19,203,Republica Federativa del Brasil,Rio de Janeiro,-22° 54´ 00´´ (S),-043° 12´ 00´´ (W),27,5,4333
+2016,2016-10-24,203,Republica Federativa de Brasil,Rio de Janeiro,-22° 54´ 00´´ (S),-043° 12´ 00´´ (W),2016-10-31,225,Republica Oriental del Uruguay,Montevideo,-34° 54´ 24´´ (S),-056° 11´ 45´´ (W),7,3,1839
+2016,2016-11-03,225,Republica Oriental del Uruguay,Montevideo,-34° 54´ 24´´ (S),-056° 11´ 45´´ (W),2016-11-05,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),2,,146
+2017,2017-03-25,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),2017-04-08,203,Republica Federativa del Brasil,Fortaleza,-03° 43´ 51´´ (S),-038° 36´ 51´´ (W),14,3,2719
+2017,2017-04-11,203,Republica Federativa de Brasil,Fortaleza,-03° 43´ 51´´ (S),-038° 36´ 51´´ (W),2017-05-04,218,Estados Unidos Mexicanos,Veracruz,+19° 12´ 00´´ (N),-096° 07´ 59´´ (W),23,5,4923
+2017,2017-05-09,218,Estados Unidos Mexicanos,Veracruz,+19° 12´ 00´´ (N),-096° 07´ 59´´ (W),2017-05-18,212,Estados Unidos,Charleston,+32° 46´ 34´´ (N),-079° 55´ 41´´ (W),9,3,1520
+2017,2017-05-21,212,Estados Unidos de America,Charleston,+32° 46´ 34´´ (N),-079° 55´ 41´´ (W),2017-05-24,212,Estados Unidos,Miami,+25° 46´ 33´´ (N),-080° 11´ 22´´ (W),3,4,555
+2017,2017-05-28,212,Estados Unidos de America,Miami,+25° 46´ 33´´ (N),-080° 11´ 22´´ (W),2017-06-17,423,Paises Bajos,Den Helder,+52° 57´ 39´´ (N),+004° 45´ 33´´ (E),20,7,4470
+2017,2017-06-25,423,Paises Bajos,Den Helder,+52° 57´ 39´´ (N),+004° 45´ 33´´ (E),2017-06-29,438,Republica Federal de Alemania,Wilhelmshaven,+53° 32´ 04´´ (N),+008° 10´ 08´´ (E),5,3,281
+2017,2017-07-02,438,Republica Federal de Alemania,Wilhelmshaven,+53° 32´ 04´´ (N),+008° 10´ 08´´ (E),2017-07-05,438,Republica Federal de Alemania,Hamburgo,+53° 32´ 51´´ (N),+009° 58´ 09´´ (E),3,5,184
+2017,2017-07-10,438,Republica Federal de Alemania,Hamburgo,+53° 32´ 51´´ (N),+009° 58´ 09´´ (E),2017-07-14,429,Reino de Suecia,Malmo,+55° 34´ 13´´ (N),+012° 53´ 52´´ (E),4,3,613
+2017,2017-07-17,429,Reino de Suecia,Malmo,+55° 34´ 13´´ (N),+012° 53´ 52´´ (E),2017-07-22,412,Republica Francesa,Boulogne Sur Mer,+50° 43´ 48´´ (N),+001° 35´ 37´´ (E),5,3,835
+2017,2017-07-25,412,Republica Francesa,Boulogne Sur Mer,+50° 43´ 48´´ (N),+001° 35´ 37´´ (E),2017-07-26,426,Reino Unido de Gran Bretania e Irlanda del Norte,Southampton,+50° 53´ 38´´ (N),-001° 22´ 31´´ (W),1,4,173
+2017,2017-07-30,426,Reino Unido de Gran Bretania e Irlanda del Norte,Southampton,+50° 53´ 38´´ (N),-001° 22´ 31´´ (W),2017-08-09,410,Reino de Espania,Barcelona,+41 21´ 00´´ (N),+002° 10´ 00´´ (E),10,5,1839
+2017,2017-08-14,410,Reino de Espania,Barcelona,+41° 21´ 00´´ (N),+002° 10´ 00´´ (E),2017-08-23,410,Reino de Espania,Santa Cruz de Tenerife,+28 29´ 02´´ (N),-016° 14´ 55´´ (W),9,3,1661
+2017,2017-08-26,410,Reino de Espania,Santa Cruz de Tenerife,+28° 29´ 02´´ (N),-016° 14´ 55´´ (W),2017-09-19,203,Republica Federativa del Brasil,Rio de Janeiro,-22° 54´ 00´´ (S),-043° 12´ 00´´ (W),24,4,3824
+2017,2017-09-23,203,Republica Federativa de Brasil,Rio de Janeiro,-22° 54´ 00´´ (S),-043° 12´ 00´´ (W),2017-09-30,225,Republica Oriental del Uruguay,Montevideo,-34° 54´ 24´´ (S),-056° 11´ 45´´ (W),7,3,1054
+2017,2017-10-03,225,Republica Oriental del Uruguay,Montevideo,-34° 54´ 24´´ (S),-056° 11´ 45´´ (W),2017-10-05,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),2,0,152
+2018,2018-03-17,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),2018-03-25,203,Republica Federativa de Brasil,Rio de Janeiro,-22° 54´ 00´´ (S),-043° 12´ 00´´ (W),8,7,1300
+2018,2018-04-01,203,Republica Federativa de Brasil,Rio de Janeiro,-22° 54´ 00´´ (S),-043° 12´ 00´´ (W),2018-04-12,225,Republica Oriental del Uruguay,Montevideo,-34° 54´ 24´´ (S),-056° 11´ 45´´ (W),9,3,1308
+2018,2018-04-15,225,Republica Oriental del Uruguay,Montevideo,-34° 54´ 24´´ (S),-056° 11´ 45´´ (W),2018-04-16,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),1,7,104
+2018,2018-04-23,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),2018-05-03,200,Republica Argentina,Ushuaia,-54° 47´ 17´´ (S),-068° 17´ 40´´ (W),10,4,1980
+2018,2018-05-07,200,Republica Argentina,Ushuaia,-54° 47´ 17´´ (S),-068° 17´ 40´´ (W),2018-05-11,208,Republica de Chile,Punta Arenas,-53° 06´ 06´´ (S),-070° 56´ 28´´ (W),4,4,499
+2018,2018-05-15,208,Republica de Chile,Punta Arenas,-53° 06´ 06´´ (S),-070° 56´ 28´´ (W),2018-05-23,208,Republica de Chile,Talcahuano,-36° 41´ 08´´ (S),-073° 06´ 20´´ (W),8,3,1657
+2018,2018-05-26,208,Republica de Chile,Talcahuano,-36° 41´ 08´´ (S),-073° 06´ 20´´ (W),2018-05-28,208,Republica de Chile,Valparaiso,-33° 03´ 01´´ (S),-071° 38´ 20´´ (W),2,6,301
+2018,2018-06-03,208,Republica de Chile,Valparaiso,-33° 03´ 01´´ (S),-071° 38´ 20´´ (W),2018-06-08,208,Republica de Chile,Antofagasta,-23° 39´ 25´´ (S),-070° 23´ 51´´ (W),5,2,816
+2018,2018-06-11,208,Republica de Chile,Antofagasta,-23° 39´ 25´´ (S),-070° 23´ 51´´ (W),2018-06-17,222,Republica del Peru,El Callao,-12° 03´ 13´´ (S),-077° 07´ 16´´ (W),6,5,1122
+2018,2018-06-22,222,Republica del Peru,El Callao,-12° 03´ 13´´ (S),-077° 07´ 16´´ (W),2018-06-28,210,Republica del Ecuador,Guayaquil,-02° 14´ 25´´ (S),-079° 52´ 53´´ (W),6,4,876
+2018,2018-07-02,210,Republica del Ecuador,Guayaquil,-02° 14´ 25´´ (S),-079° 52´ 53´´ (W),2018-07-07,220,Republica de Panama,Balboa,+08° 56´ 22´´ (N),-079° 33´ 17´´ (W),4,4,843
+2018,2018-07-10,220,Republica de Panama,Balboa,+08° 56´ 22´´ (N),-079° 33´ 17´´ (W),2018-07-21,205,Republica de Colombia,Cartagena de Indias,+10° 24´ 09´´ (N),-075° 31´ 12´´ (W),11,5,1136
+2018,2018-07-26,205,Republica de Colombia,Cartagena de Indias,+10° 24´ 09´´ (N),-075° 31´ 12´´ (W),2018-07-27,205,Republica de Colombia,Santa Marta ,+11° 14´ 11´´ (N),-074° 12´ 55´´ (W),1,4,126
+2018,2018-07-31,205,Republica de Colombia,Santa Marta ,+11° 14´ 11´´ (N),-074° 12´ 55´´ (W),2018-08-09,209,Republica Dominicana,Santo Domingo,+18° 28´ 17´´ (N),-069° 52´ 29´´ (W),10,4,842
+2018,2018-08-13,209,Republica Dominicana,Santo Domingo,+18° 28´ 17´´ (N),-069° 52´ 29´´ (W),2018-08-21,218,Estados Unidos Mexicanos,Cozumel,+20° 20´ 21´´ (N),-086° 55´ 38´´ (W),8,2,1195
+2018,2018-08-23,218,Estados Unidos Mexicanos,Cozumel,+20° 20´ 21´´ (N),-086° 55´ 38´´ (W),2018-08-27,218,Estados Unidos Mexicanos,Veracruz,+19° 12´ 00´´ (N),-096° 07´ 59´´ (W),4,6,769
+2018,2018-09-02,218,Estados Unidos Mexicanos,Veracruz,+19° 12´ 00´´ (N),-096° 07´ 59´´ (W),2018-09-21,212,Estados Unidos de America,Baltimore,+39° 16´ 52´´ (N),-076° 35´ 44´´ (W),19,7,3928
+2018,2018-09-28,212,Estados Unidos de America,Baltimore,+39° 16´ 52´´ (N),-076° 35´ 44´´ (W),2018-10-06,223,Estado Libre Asociado de Puerto Rico,Municipio Autonomo de San Juan,+18° 27´ 27´´ (N),-066° 12´ 32´´ (W),8,3,1635
+2018,2018-10-09,223,Estado Libre Asociado de Puerto Rico,Municipio Autonomo de San Juan,+18° 27´ 27´´ (N),-066° 12´ 32´´ (W),2018-10-23,203,Republica Federativa de Brasil,Fortaleza,-03° 43´ 51´´ (S),-038° 36´ 51´´ (W),14,3,2181
+2018,2018-10-26,203,Republica Federativa de Brasil,Fortaleza,-03° 43´ 51´´ (S),-038° 36´ 51´´ (W),2018-11-12,225,Republica Oriental del Uruguay,Montevideo,-34° 54´ 24´´ (S),-056° 11´ 45´´ (W),17,3,2853
+2018,2018-11-15,225,Republica Oriental del Uruguay,Montevideo,-34° 54´ 24´´ (S),-056° 11´ 45´´ (W),2018-11-18,200,Republica Argentina,Buenos Aires,-34° 35´ 40´´ (S),-058° 21´ 59´´ (W),3,,104
